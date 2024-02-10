@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leetcode Contest List</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h2>Leetcode Contest Problem List</h2>
+    <div class="content" id="content">
+        <div class="filter">
+            <input type="text" name="search" id="search-text" placeholder="Search a problem by contest or name...">
+
+            <input type="checkbox" id="show-contest-title" checked>
+            <label for="show-contest-title"> Show contest name</label>
+            
+            <div id="page-number"> 
+                <button class="prev-page">&#8592;</button> 
+                <span class="curr-page">3/4</span>  
+                <button class="next-page">&#8594;</button> 
+            </div>
+        </div>
+        <div class="heading">
+            <div class="name"> Contest Problems 
+                <span class="progress"> (5/2024) </span>   
+                <span class="sort" data-asc="0"> 
+                    <span> &#8593; </span>
+                    <span> &#8595; </span>
+                </span>
+            </div>
+            <div class="points">
+                Points 
+                <span class="sort" data-asc="0"> 
+                    <span> &#8593; </span>
+                    <span> &#8595; </span>
+                </span>
+            </div>
+        </div>
+
+        <div id="table">
+            <template id="row-header-template">
+                <div class="row-header">
+                    lkjlkgjlkdjgljk
+                </div>
+            </template>
+            <template id="row-item-template">
+                <div class="row-item">
+                    <input type="checkbox"  />
+                    <label for=""> </label>
+                    <a href="#" target="_blank">Something</a>
+                    <div class="point">3</div>            
+                </div>
+            </template>
+        </div>
+    </div>
+    <script src="main.js" type="module" defer></script>
+</body>
+</html>
