@@ -1,5 +1,33 @@
 [
     {
+        "name": "Modify the Matrix",
+        "link": "https://leetcode.com/problems/modify-the-matrix",
+        "point": "2",
+        "contest": "Weekly Contest 384",
+        "id": 2046
+    },
+    {
+        "name": "Number of Subarrays That Match a Pattern I",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i",
+        "point": "4",
+        "contest": "Weekly Contest 384",
+        "id": 2045
+    },
+    {
+        "name": "Maximum Palindromes After Operations",
+        "link": "https://leetcode.com/problems/maximum-palindromes-after-operations",
+        "point": "5",
+        "contest": "Weekly Contest 384",
+        "id": 2044
+    },
+    {
+        "name": "Number of Subarrays That Match a Pattern II",
+        "link": "https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii",
+        "point": "6",
+        "contest": "Weekly Contest 384",
+        "id": 2043
+    },
+    {
         "name": "Ant on the Boundary",
         "link": "https://leetcode.com/problems/ant-on-the-boundary",
         "point": "3",

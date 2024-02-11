@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 384|
+| [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix)| 2|
+| [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i)| 4|
+| [Maximum Palindromes After Operations](https://leetcode.com/problems/maximum-palindromes-after-operations)| 5|
+| [Number of Subarrays That Match a Pattern II](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-ii)| 6|
 |Weekly Contest 383|
 | [Ant on the Boundary](https://leetcode.com/problems/ant-on-the-boundary)| 3|
 | [Minimum Time to Revert Word to Initial State I](https://leetcode.com/problems/minimum-time-to-revert-word-to-initial-state-i)| 4|
