@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 385|
+| [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)| 3|
+| [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)| 4|
+| [Most Frequent Prime](https://leetcode.com/problems/most-frequent-prime)| 5|
+| [Count Prefix and Suffix Pairs II](https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii)| 6|
+|Biweekly Contest 124|
+| [Maximum Number of Operations With the Same Score I](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i)| 3|
+| [Apply Operations to Make String Empty](https://leetcode.com/problems/apply-operations-to-make-string-empty)| 4|
+| [Maximum Number of Operations With the Same Score II](https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii)| 5|
+| [Maximize Consecutive Elements in an Array After Modification](https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification)| 6|
 |Weekly Contest 384|
 | [Modify the Matrix](https://leetcode.com/problems/modify-the-matrix)| 2|
 | [Number of Subarrays That Match a Pattern I](https://leetcode.com/problems/number-of-subarrays-that-match-a-pattern-i)| 4|

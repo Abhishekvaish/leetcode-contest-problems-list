@@ -1,5 +1,61 @@
 [
     {
+        "name": "Count Prefix and Suffix Pairs I",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
+        "point": "3",
+        "contest": "Weekly Contest 385",
+        "id": 2054
+    },
+    {
+        "name": "Find the Length of the Longest Common Prefix",
+        "link": "https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix",
+        "point": "4",
+        "contest": "Weekly Contest 385",
+        "id": 2053
+    },
+    {
+        "name": "Most Frequent Prime",
+        "link": "https://leetcode.com/problems/most-frequent-prime",
+        "point": "5",
+        "contest": "Weekly Contest 385",
+        "id": 2052
+    },
+    {
+        "name": "Count Prefix and Suffix Pairs II",
+        "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-ii",
+        "point": "6",
+        "contest": "Weekly Contest 385",
+        "id": 2051
+    },
+    {
+        "name": "Maximum Number of Operations With the Same Score I",
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-i",
+        "point": "3",
+        "contest": "Biweekly Contest 124",
+        "id": 2050
+    },
+    {
+        "name": "Apply Operations to Make String Empty",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-string-empty",
+        "point": "4",
+        "contest": "Biweekly Contest 124",
+        "id": 2049
+    },
+    {
+        "name": "Maximum Number of Operations With the Same Score II",
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-with-the-same-score-ii",
+        "point": "5",
+        "contest": "Biweekly Contest 124",
+        "id": 2048
+    },
+    {
+        "name": "Maximize Consecutive Elements in an Array After Modification",
+        "link": "https://leetcode.com/problems/maximize-consecutive-elements-in-an-array-after-modification",
+        "point": "6",
+        "contest": "Biweekly Contest 124",
+        "id": 2047
+    },
+    {
         "name": "Modify the Matrix",
         "link": "https://leetcode.com/problems/modify-the-matrix",
         "point": "2",
