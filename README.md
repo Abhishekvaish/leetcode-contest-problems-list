@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 386|
+| [Split the Array](https://leetcode.com/problems/split-the-array)| 3|
+| [Find the Largest Area of Square Inside Two Rectangles](https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles)| 4|
+| [Earliest Second to Mark Indices I](https://leetcode.com/problems/earliest-second-to-mark-indices-i)| 5|
+| [Earliest Second to Mark Indices II](https://leetcode.com/problems/earliest-second-to-mark-indices-ii)| 6|
 |Weekly Contest 385|
 | [Count Prefix and Suffix Pairs I](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)| 3|
 | [Find the Length of the Longest Common Prefix](https://leetcode.com/problems/find-the-length-of-the-longest-common-prefix)| 4|

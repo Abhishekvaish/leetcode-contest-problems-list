@@ -1,5 +1,33 @@
 [
     {
+        "name": "Split the Array",
+        "link": "https://leetcode.com/problems/split-the-array",
+        "point": "3",
+        "contest": "Weekly Contest 386",
+        "id": 2058
+    },
+    {
+        "name": "Find the Largest Area of Square Inside Two Rectangles",
+        "link": "https://leetcode.com/problems/find-the-largest-area-of-square-inside-two-rectangles",
+        "point": "4",
+        "contest": "Weekly Contest 386",
+        "id": 2057
+    },
+    {
+        "name": "Earliest Second to Mark Indices I",
+        "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-i",
+        "point": "5",
+        "contest": "Weekly Contest 386",
+        "id": 2056
+    },
+    {
+        "name": "Earliest Second to Mark Indices II",
+        "link": "https://leetcode.com/problems/earliest-second-to-mark-indices-ii",
+        "point": "6",
+        "contest": "Weekly Contest 386",
+        "id": 2055
+    },
+    {
         "name": "Count Prefix and Suffix Pairs I",
         "link": "https://leetcode.com/problems/count-prefix-and-suffix-pairs-i",
         "point": "3",
