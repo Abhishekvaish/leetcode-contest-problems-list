@@ -19,7 +19,7 @@ h2{
   background: #012B39;
   border-radius: 0.25em;
   border-collapse: collapse;
-  margin: 0 10em 7em 10em;
+  margin: 0 10% 5% 10%;
 }
 
 .filter {
@@ -76,7 +76,7 @@ h2{
 }
 
 .sort span:nth-child(2){
-  margin-left: -12px;
+  margin-left: -8px;
 }
 .sort{
   cursor: pointer;
