@@ -1,5 +1,33 @@
 [
     {
+        "name": "Apple Redistribution into Boxes",
+        "link": "https://leetcode.com/problems/apple-redistribution-into-boxes",
+        "point": "2",
+        "contest": "Weekly Contest 388",
+        "id": 2070
+    },
+    {
+        "name": "Maximize Happiness of Selected Children",
+        "link": "https://leetcode.com/problems/maximize-happiness-of-selected-children",
+        "point": "4",
+        "contest": "Weekly Contest 388",
+        "id": 2069
+    },
+    {
+        "name": "Shortest Uncommon Substring in an Array",
+        "link": "https://leetcode.com/problems/shortest-uncommon-substring-in-an-array",
+        "point": "5",
+        "contest": "Weekly Contest 388",
+        "id": 2068
+    },
+    {
+        "name": "Maximum Strength of K Disjoint Subarrays",
+        "link": "https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays",
+        "point": "6",
+        "contest": "Weekly Contest 388",
+        "id": 2067
+    },
+    {
         "name": "Distribute Elements Into Two Arrays I",
         "link": "https://leetcode.com/problems/distribute-elements-into-two-arrays-i",
         "point": "3",

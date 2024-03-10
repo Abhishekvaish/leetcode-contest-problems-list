@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 388|
+| [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes)| 2|
+| [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children)| 4|
+| [Shortest Uncommon Substring in an Array](https://leetcode.com/problems/shortest-uncommon-substring-in-an-array)| 5|
+| [Maximum Strength of K Disjoint Subarrays](https://leetcode.com/problems/maximum-strength-of-k-disjoint-subarrays)| 6|
 |Weekly Contest 387|
 | [Distribute Elements Into Two Arrays I](https://leetcode.com/problems/distribute-elements-into-two-arrays-i)| 3|
 | [Count Submatrices with Top-Left Element and Sum Less Than k](https://leetcode.com/problems/count-submatrices-with-top-left-element-and-sum-less-than-k)| 4|
