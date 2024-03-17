@@ -1,5 +1,61 @@
 [
     {
+        "name": "Existence of a Substring in a String and Its Reverse",
+        "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
+        "point": "3",
+        "contest": "Weekly Contest 389",
+        "id": 2078
+    },
+    {
+        "name": "Count Substrings Starting and Ending with Given Character",
+        "link": "https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character",
+        "point": "4",
+        "contest": "Weekly Contest 389",
+        "id": 2077
+    },
+    {
+        "name": "Minimum Deletions to Make String K-Special",
+        "link": "https://leetcode.com/problems/minimum-deletions-to-make-string-k-special",
+        "point": "5",
+        "contest": "Weekly Contest 389",
+        "id": 2076
+    },
+    {
+        "name": "Minimum Moves to Pick K Ones",
+        "link": "https://leetcode.com/problems/minimum-moves-to-pick-k-ones",
+        "point": "7",
+        "contest": "Weekly Contest 389",
+        "id": 2075
+    },
+    {
+        "name": "Find the Sum of Encrypted Integers",
+        "link": "https://leetcode.com/problems/find-the-sum-of-encrypted-integers",
+        "point": "3",
+        "contest": "Biweekly Contest 126",
+        "id": 2074
+    },
+    {
+        "name": "Mark Elements on Array by Performing Queries",
+        "link": "https://leetcode.com/problems/mark-elements-on-array-by-performing-queries",
+        "point": "4",
+        "contest": "Biweekly Contest 126",
+        "id": 2073
+    },
+    {
+        "name": "Replace Question Marks in String to Minimize Its Value",
+        "link": "https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value",
+        "point": "5",
+        "contest": "Biweekly Contest 126",
+        "id": 2072
+    },
+    {
+        "name": "Find the Sum of the Power of All Subsequences",
+        "link": "https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences",
+        "point": "6",
+        "contest": "Biweekly Contest 126",
+        "id": 2071
+    },
+    {
         "name": "Apple Redistribution into Boxes",
         "link": "https://leetcode.com/problems/apple-redistribution-into-boxes",
         "point": "2",

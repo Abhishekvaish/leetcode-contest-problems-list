@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 389|
+| [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)| 3|
+| [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character)| 4|
+| [Minimum Deletions to Make String K-Special](https://leetcode.com/problems/minimum-deletions-to-make-string-k-special)| 5|
+| [Minimum Moves to Pick K Ones](https://leetcode.com/problems/minimum-moves-to-pick-k-ones)| 7|
+|Biweekly Contest 126|
+| [Find the Sum of Encrypted Integers](https://leetcode.com/problems/find-the-sum-of-encrypted-integers)| 3|
+| [Mark Elements on Array by Performing Queries](https://leetcode.com/problems/mark-elements-on-array-by-performing-queries)| 4|
+| [Replace Question Marks in String to Minimize Its Value](https://leetcode.com/problems/replace-question-marks-in-string-to-minimize-its-value)| 5|
+| [Find the Sum of the Power of All Subsequences](https://leetcode.com/problems/find-the-sum-of-the-power-of-all-subsequences)| 6|
 |Weekly Contest 388|
 | [Apple Redistribution into Boxes](https://leetcode.com/problems/apple-redistribution-into-boxes)| 2|
 | [Maximize Happiness of Selected Children](https://leetcode.com/problems/maximize-happiness-of-selected-children)| 4|
