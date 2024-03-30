@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 390|
+| [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/)| 3|
+| [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/)| 4|
+| [Most Frequent IDs](https://leetcode.com/problems/)| 5|
+| [Longest Common Suffix Queries](https://leetcode.com/problems/)| 6|
 |Weekly Contest 389|
 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)| 3|
 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character)| 4|

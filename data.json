@@ -1,5 +1,33 @@
 [
     {
+        "name": "Maximum Length Substring With Two Occurrences",
+        "link": "https://leetcode.com/problems/",
+        "point": "3",
+        "contest": "Weekly Contest 390",
+        "id": 2082
+    },
+    {
+        "name": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "link": "https://leetcode.com/problems/",
+        "point": "4",
+        "contest": "Weekly Contest 390",
+        "id": 2081
+    },
+    {
+        "name": "Most Frequent IDs",
+        "link": "https://leetcode.com/problems/",
+        "point": "5",
+        "contest": "Weekly Contest 390",
+        "id": 2080
+    },
+    {
+        "name": "Longest Common Suffix Queries",
+        "link": "https://leetcode.com/problems/",
+        "point": "6",
+        "contest": "Weekly Contest 390",
+        "id": 2079
+    },
+    {
         "name": "Existence of a Substring in a String and Its Reverse",
         "link": "https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse",
         "point": "3",
