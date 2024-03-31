@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 391|
+| [Harshad Number](https://leetcode.com/problems/)| 3|
+| [Water Bottles II](https://leetcode.com/problems/)| 4|
+| [Count Alternating Subarrays](https://leetcode.com/problems/)| 5|
+| [Minimize Manhattan Distances](https://leetcode.com/problems/)| 7|
+|Biweekly Contest 127|
+| [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/)| 3|
+| [Minimum Levels to Gain More Points](https://leetcode.com/problems/)| 4|
+| [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/)| 5|
+| [Find the Sum of Subsequence Powers](https://leetcode.com/problems/)| 7|
 |Weekly Contest 390|
 | [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/)| 3|
 | [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/)| 4|

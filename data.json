@@ -1,5 +1,61 @@
 [
     {
+        "name": "Harshad Number",
+        "link": "https://leetcode.com/problems/",
+        "point": "3",
+        "contest": "Weekly Contest 391",
+        "id": 2090
+    },
+    {
+        "name": "Water Bottles II",
+        "link": "https://leetcode.com/problems/",
+        "point": "4",
+        "contest": "Weekly Contest 391",
+        "id": 2089
+    },
+    {
+        "name": "Count Alternating Subarrays",
+        "link": "https://leetcode.com/problems/",
+        "point": "5",
+        "contest": "Weekly Contest 391",
+        "id": 2088
+    },
+    {
+        "name": "Minimize Manhattan Distances",
+        "link": "https://leetcode.com/problems/",
+        "point": "7",
+        "contest": "Weekly Contest 391",
+        "id": 2087
+    },
+    {
+        "name": "Shortest Subarray With OR at Least K I",
+        "link": "https://leetcode.com/problems/",
+        "point": "3",
+        "contest": "Biweekly Contest 127",
+        "id": 2086
+    },
+    {
+        "name": "Minimum Levels to Gain More Points",
+        "link": "https://leetcode.com/problems/",
+        "point": "4",
+        "contest": "Biweekly Contest 127",
+        "id": 2085
+    },
+    {
+        "name": "Shortest Subarray With OR at Least K II",
+        "link": "https://leetcode.com/problems/",
+        "point": "5",
+        "contest": "Biweekly Contest 127",
+        "id": 2084
+    },
+    {
+        "name": "Find the Sum of Subsequence Powers",
+        "link": "https://leetcode.com/problems/",
+        "point": "7",
+        "contest": "Biweekly Contest 127",
+        "id": 2083
+    },
+    {
         "name": "Maximum Length Substring With Two Occurrences",
         "link": "https://leetcode.com/problems/",
         "point": "3",
