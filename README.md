@@ -5,20 +5,20 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 |Problems | Points|
 | :-- | :--: |
 |Weekly Contest 391|
-| [Harshad Number](https://leetcode.com/problems/)| 3|
-| [Water Bottles II](https://leetcode.com/problems/)| 4|
-| [Count Alternating Subarrays](https://leetcode.com/problems/)| 5|
-| [Minimize Manhattan Distances](https://leetcode.com/problems/)| 7|
+| [Harshad Number](https://leetcode.com/problems/harshad-number/)| 3|
+| [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)| 4|
+| [Count Alternating Subarrays](https://leetcode.com/problems/count-alternating-subarrays/)| 5|
+| [Minimize Manhattan Distances](https://leetcode.com/problems/minimize-manhattan-distances/)| 7|
 |Biweekly Contest 127|
-| [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/)| 3|
-| [Minimum Levels to Gain More Points](https://leetcode.com/problems/)| 4|
-| [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/)| 5|
-| [Find the Sum of Subsequence Powers](https://leetcode.com/problems/)| 7|
+| [Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/)| 3|
+| [Minimum Levels to Gain More Points](https://leetcode.com/problems/minimum-levels-to-gain-more-points/)| 4|
+| [Shortest Subarray With OR at Least K II](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/)| 5|
+| [Find the Sum of Subsequence Powers](https://leetcode.com/problems/find-the-sum-of-subsequence-powers/)| 7|
 |Weekly Contest 390|
-| [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/)| 3|
-| [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/)| 4|
-| [Most Frequent IDs](https://leetcode.com/problems/)| 5|
-| [Longest Common Suffix Queries](https://leetcode.com/problems/)| 6|
+| [Maximum Length Substring With Two Occurrences](https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/)| 3|
+| [Apply Operations to Make Sum of Array Greater Than or Equal to k](https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/)| 4|
+| [Most Frequent IDs](https://leetcode.com/problems/most-frequent-ids/)| 5|
+| [Longest Common Suffix Queries](https://leetcode.com/problems/longest-common-suffix-queries/)| 6|
 |Weekly Contest 389|
 | [Existence of a Substring in a String and Its Reverse](https://leetcode.com/problems/existence-of-a-substring-in-a-string-and-its-reverse)| 3|
 | [Count Substrings Starting and Ending with Given Character](https://leetcode.com/problems/count-substrings-starting-and-ending-with-given-character)| 4|

@@ -1,84 +1,84 @@
 [
     {
         "name": "Harshad Number",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/harshad-number/",
         "point": "3",
         "contest": "Weekly Contest 391",
         "id": 2090
     },
     {
         "name": "Water Bottles II",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/water-bottles-ii/",
         "point": "4",
         "contest": "Weekly Contest 391",
         "id": 2089
     },
     {
         "name": "Count Alternating Subarrays",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/count-alternating-subarrays/",
         "point": "5",
         "contest": "Weekly Contest 391",
         "id": 2088
     },
     {
         "name": "Minimize Manhattan Distances",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/minimize-manhattan-distances/",
         "point": "7",
         "contest": "Weekly Contest 391",
         "id": 2087
     },
     {
         "name": "Shortest Subarray With OR at Least K I",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/",
         "point": "3",
         "contest": "Biweekly Contest 127",
         "id": 2086
     },
     {
         "name": "Minimum Levels to Gain More Points",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/minimum-levels-to-gain-more-points/",
         "point": "4",
         "contest": "Biweekly Contest 127",
         "id": 2085
     },
     {
         "name": "Shortest Subarray With OR at Least K II",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-ii/",
         "point": "5",
         "contest": "Biweekly Contest 127",
         "id": 2084
     },
     {
         "name": "Find the Sum of Subsequence Powers",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/find-the-sum-of-subsequence-powers/",
         "point": "7",
         "contest": "Biweekly Contest 127",
         "id": 2083
     },
     {
         "name": "Maximum Length Substring With Two Occurrences",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/maximum-length-substring-with-two-occurrences/",
         "point": "3",
         "contest": "Weekly Contest 390",
         "id": 2082
     },
     {
         "name": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k/",
         "point": "4",
         "contest": "Weekly Contest 390",
         "id": 2081
     },
     {
         "name": "Most Frequent IDs",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/most-frequent-ids/",
         "point": "5",
         "contest": "Weekly Contest 390",
         "id": 2080
     },
     {
         "name": "Longest Common Suffix Queries",
-        "link": "https://leetcode.com/problems/",
+        "link": "https://leetcode.com/problems/longest-common-suffix-queries/",
         "point": "6",
         "contest": "Weekly Contest 390",
         "id": 2079
