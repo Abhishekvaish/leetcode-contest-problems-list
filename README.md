@@ -4,6 +4,21 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 393|
+| [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/)| 3|
+| [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)| 4|
+| [Kth Smallest Amount With Single Denomination Combination](https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/)| 6|
+| [Minimum Sum of Values by Dividing Array](https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/)| 8|
+|Biweekly Contest 128|
+| [Score of a String](https://leetcode.com/problems/score-of-a-string/)| 3|
+| [Minimum Rectangles to Cover Points](https://leetcode.com/problems/minimum-rectangles-to-cover-points/)| 4|
+| [Minimum Time to Visit Disappearing Nodes](https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/)| 5|
+| [Find the Number of Subarrays Where Boundary Elements Are Maximum](https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/)| 6|
+|Weekly Contest 392|
+| [Longest Strictly Increasing or Strictly Decreasing Subarray](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/)| 3|
+| [Lexicographically Smallest String After Operations With Constraint](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/)| 4|
+| [Minimum Operations to Make Median of Array Equal to K](https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/)| 5|
+| [Minimum Cost Walk in Weighted Graph](https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/)| 6|
 |Weekly Contest 391|
 | [Harshad Number](https://leetcode.com/problems/harshad-number/)| 3|
 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii/)| 4|

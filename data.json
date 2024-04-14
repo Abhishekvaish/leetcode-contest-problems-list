@@ -1,5 +1,89 @@
 [
     {
+        "name": "Latest Time You Can Obtain After Replacing Characters",
+        "link": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/",
+        "point": "3",
+        "contest": "Weekly Contest 393",
+        "id": 2102
+    },
+    {
+        "name": "Maximum Prime Difference",
+        "link": "https://leetcode.com/problems/maximum-prime-difference/",
+        "point": "4",
+        "contest": "Weekly Contest 393",
+        "id": 2101
+    },
+    {
+        "name": "Kth Smallest Amount With Single Denomination Combination",
+        "link": "https://leetcode.com/problems/kth-smallest-amount-with-single-denomination-combination/",
+        "point": "6",
+        "contest": "Weekly Contest 393",
+        "id": 2100
+    },
+    {
+        "name": "Minimum Sum of Values by Dividing Array",
+        "link": "https://leetcode.com/problems/minimum-sum-of-values-by-dividing-array/",
+        "point": "8",
+        "contest": "Weekly Contest 393",
+        "id": 2099
+    },
+    {
+        "name": "Score of a String",
+        "link": "https://leetcode.com/problems/score-of-a-string/",
+        "point": "3",
+        "contest": "Biweekly Contest 128",
+        "id": 2098
+    },
+    {
+        "name": "Minimum Rectangles to Cover Points",
+        "link": "https://leetcode.com/problems/minimum-rectangles-to-cover-points/",
+        "point": "4",
+        "contest": "Biweekly Contest 128",
+        "id": 2097
+    },
+    {
+        "name": "Minimum Time to Visit Disappearing Nodes",
+        "link": "https://leetcode.com/problems/minimum-time-to-visit-disappearing-nodes/",
+        "point": "5",
+        "contest": "Biweekly Contest 128",
+        "id": 2096
+    },
+    {
+        "name": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "link": "https://leetcode.com/problems/find-the-number-of-subarrays-where-boundary-elements-are-maximum/",
+        "point": "6",
+        "contest": "Biweekly Contest 128",
+        "id": 2095
+    },
+    {
+        "name": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "link": "https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/",
+        "point": "3",
+        "contest": "Weekly Contest 392",
+        "id": 2094
+    },
+    {
+        "name": "Lexicographically Smallest String After Operations With Constraint",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/",
+        "point": "4",
+        "contest": "Weekly Contest 392",
+        "id": 2093
+    },
+    {
+        "name": "Minimum Operations to Make Median of Array Equal to K",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-median-of-array-equal-to-k/",
+        "point": "5",
+        "contest": "Weekly Contest 392",
+        "id": 2092
+    },
+    {
+        "name": "Minimum Cost Walk in Weighted Graph",
+        "link": "https://leetcode.com/problems/minimum-cost-walk-in-weighted-graph/",
+        "point": "6",
+        "contest": "Weekly Contest 392",
+        "id": 2091
+    },
+    {
         "name": "Harshad Number",
         "link": "https://leetcode.com/problems/harshad-number/",
         "point": "3",
