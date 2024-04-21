@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 394|
+| [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)| 3|
+| [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)| 4|
+| [Minimum Number of Operations to Satisfy Conditions](https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/)| 5|
+| [Find Edges in Shortest Paths](https://leetcode.com/problems/find-edges-in-shortest-paths/)| 6|
 |Weekly Contest 393|
 | [Latest Time You Can Obtain After Replacing Characters](https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/)| 3|
 | [Maximum Prime Difference](https://leetcode.com/problems/maximum-prime-difference/)| 4|

@@ -1,5 +1,33 @@
 [
     {
+        "name": "Count the Number of Special Characters I",
+        "link": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
+        "point": "3",
+        "contest": "Weekly Contest 394",
+        "id": 2106
+    },
+    {
+        "name": "Count the Number of Special Characters II",
+        "link": "https://leetcode.com/problems/count-the-number-of-special-characters-ii/",
+        "point": "4",
+        "contest": "Weekly Contest 394",
+        "id": 2105
+    },
+    {
+        "name": "Minimum Number of Operations to Satisfy Conditions",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-satisfy-conditions/",
+        "point": "5",
+        "contest": "Weekly Contest 394",
+        "id": 2104
+    },
+    {
+        "name": "Find Edges in Shortest Paths",
+        "link": "https://leetcode.com/problems/find-edges-in-shortest-paths/",
+        "point": "6",
+        "contest": "Weekly Contest 394",
+        "id": 2103
+    },
+    {
         "name": "Latest Time You Can Obtain After Replacing Characters",
         "link": "https://leetcode.com/problems/latest-time-you-can-obtain-after-replacing-characters/",
         "point": "3",
