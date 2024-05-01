@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find the Integer Added to Array I",
+        "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i/",
+        "point": "3",
+        "contest": "Weekly Contest 395",
+        "id": 2114
+    },
+    {
+        "name": "Find the Integer Added to Array II",
+        "link": "https://leetcode.com/problems/find-the-integer-added-to-array-ii/",
+        "point": "4",
+        "contest": "Weekly Contest 395",
+        "id": 2113
+    },
+    {
+        "name": "Minimum Array End",
+        "link": "https://leetcode.com/problems/minimum-array-end/",
+        "point": "5",
+        "contest": "Weekly Contest 395",
+        "id": 2112
+    },
+    {
+        "name": "Find the Median of the Uniqueness Array",
+        "link": "https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/",
+        "point": "7",
+        "contest": "Weekly Contest 395",
+        "id": 2111
+    },
+    {
+        "name": "Make a Square with the Same Color",
+        "link": "https://leetcode.com/problems/make-a-square-with-the-same-color/",
+        "point": "3",
+        "contest": "Biweekly Contest 129",
+        "id": 2110
+    },
+    {
+        "name": "Right Triangles",
+        "link": "https://leetcode.com/problems/right-triangles/",
+        "point": "4",
+        "contest": "Biweekly Contest 129",
+        "id": 2109
+    },
+    {
+        "name": "Find All Possible Stable Binary Arrays I",
+        "link": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/",
+        "point": "5",
+        "contest": "Biweekly Contest 129",
+        "id": 2108
+    },
+    {
+        "name": "Find All Possible Stable Binary Arrays II",
+        "link": "https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/",
+        "point": "7",
+        "contest": "Biweekly Contest 129",
+        "id": 2107
+    },
+    {
         "name": "Count the Number of Special Characters I",
         "link": "https://leetcode.com/problems/count-the-number-of-special-characters-i/",
         "point": "3",

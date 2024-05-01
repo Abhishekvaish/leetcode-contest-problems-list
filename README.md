@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 395|
+| [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/)| 3|
+| [Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)| 4|
+| [Minimum Array End](https://leetcode.com/problems/minimum-array-end/)| 5|
+| [Find the Median of the Uniqueness Array](https://leetcode.com/problems/find-the-median-of-the-uniqueness-array/)| 7|
+|Biweekly Contest 129|
+| [Make a Square with the Same Color](https://leetcode.com/problems/make-a-square-with-the-same-color/)| 3|
+| [Right Triangles](https://leetcode.com/problems/right-triangles/)| 4|
+| [Find All Possible Stable Binary Arrays I](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-i/)| 5|
+| [Find All Possible Stable Binary Arrays II](https://leetcode.com/problems/find-all-possible-stable-binary-arrays-ii/)| 7|
 |Weekly Contest 394|
 | [Count the Number of Special Characters I](https://leetcode.com/problems/count-the-number-of-special-characters-i/)| 3|
 | [Count the Number of Special Characters II](https://leetcode.com/problems/count-the-number-of-special-characters-ii/)| 4|
