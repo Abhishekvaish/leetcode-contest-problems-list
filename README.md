@@ -4,6 +4,21 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 397|
+| [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/)| 3|
+| [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)| 4|
+| [Maximum Difference Score in a Grid](https://leetcode.com/problems/maximum-difference-score-in-a-grid/)| 5|
+| [Find the Minimum Cost Array Permutation](https://leetcode.com/problems/find-the-minimum-cost-array-permutation/)| 7|
+|Biweekly Contest 130|
+| [Check if Grid Satisfies Conditions](https://leetcode.com/problems/check-if-grid-satisfies-conditions/)| 3|
+| [Maximum Points Inside the Square](https://leetcode.com/problems/maximum-points-inside-the-square/)| 4|
+| [Minimum Substring Partition of Equal Character Frequency](https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/)| 5|
+| [Find Products of Elements of Big Array](https://leetcode.com/problems/find-products-of-elements-of-big-array/)| 7|
+|Weekly Contest 396|
+| [Valid Word](https://leetcode.com/problems/valid-word/)| 3|
+| [Minimum Number of Operations to Make Word K-Periodic](https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/)| 4|
+| [Minimum Length of Anagram Concatenation](https://leetcode.com/problems/minimum-length-of-anagram-concatenation/)| 5|
+| [Minimum Cost to Equalize Array](https://leetcode.com/problems/minimum-cost-to-equalize-array/)| 8|
 |Weekly Contest 395|
 | [Find the Integer Added to Array I](https://leetcode.com/problems/find-the-integer-added-to-array-i/)| 3|
 | [Find the Integer Added to Array II](https://leetcode.com/problems/find-the-integer-added-to-array-ii/)| 4|

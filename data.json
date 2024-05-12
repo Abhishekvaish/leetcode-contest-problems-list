@@ -1,5 +1,89 @@
 [
     {
+        "name": "Permutation Difference between Two Strings",
+        "link": "https://leetcode.com/problems/permutation-difference-between-two-strings/",
+        "point": "3",
+        "contest": "Weekly Contest 397",
+        "id": 2126
+    },
+    {
+        "name": "Taking Maximum Energy From the Mystic Dungeon",
+        "link": "https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/",
+        "point": "4",
+        "contest": "Weekly Contest 397",
+        "id": 2125
+    },
+    {
+        "name": "Maximum Difference Score in a Grid",
+        "link": "https://leetcode.com/problems/maximum-difference-score-in-a-grid/",
+        "point": "5",
+        "contest": "Weekly Contest 397",
+        "id": 2124
+    },
+    {
+        "name": "Find the Minimum Cost Array Permutation",
+        "link": "https://leetcode.com/problems/find-the-minimum-cost-array-permutation/",
+        "point": "7",
+        "contest": "Weekly Contest 397",
+        "id": 2123
+    },
+    {
+        "name": "Check if Grid Satisfies Conditions",
+        "link": "https://leetcode.com/problems/check-if-grid-satisfies-conditions/",
+        "point": "3",
+        "contest": "Biweekly Contest 130",
+        "id": 2122
+    },
+    {
+        "name": "Maximum Points Inside the Square",
+        "link": "https://leetcode.com/problems/maximum-points-inside-the-square/",
+        "point": "4",
+        "contest": "Biweekly Contest 130",
+        "id": 2121
+    },
+    {
+        "name": "Minimum Substring Partition of Equal Character Frequency",
+        "link": "https://leetcode.com/problems/minimum-substring-partition-of-equal-character-frequency/",
+        "point": "5",
+        "contest": "Biweekly Contest 130",
+        "id": 2120
+    },
+    {
+        "name": "Find Products of Elements of Big Array",
+        "link": "https://leetcode.com/problems/find-products-of-elements-of-big-array/",
+        "point": "7",
+        "contest": "Biweekly Contest 130",
+        "id": 2119
+    },
+    {
+        "name": "Valid Word",
+        "link": "https://leetcode.com/problems/valid-word/",
+        "point": "3",
+        "contest": "Weekly Contest 396",
+        "id": 2118
+    },
+    {
+        "name": "Minimum Number of Operations to Make Word K-Periodic",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-word-k-periodic/",
+        "point": "4",
+        "contest": "Weekly Contest 396",
+        "id": 2117
+    },
+    {
+        "name": "Minimum Length of Anagram Concatenation",
+        "link": "https://leetcode.com/problems/minimum-length-of-anagram-concatenation/",
+        "point": "5",
+        "contest": "Weekly Contest 396",
+        "id": 2116
+    },
+    {
+        "name": "Minimum Cost to Equalize Array",
+        "link": "https://leetcode.com/problems/minimum-cost-to-equalize-array/",
+        "point": "8",
+        "contest": "Weekly Contest 396",
+        "id": 2115
+    },
+    {
         "name": "Find the Integer Added to Array I",
         "link": "https://leetcode.com/problems/find-the-integer-added-to-array-i/",
         "point": "3",
