@@ -1,5 +1,89 @@
 [
     {
+        "name": "Find the Number of Good Pairs I",
+        "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i/",
+        "point": "3",
+        "contest": "Weekly Contest 399",
+        "id": 2138
+    },
+    {
+        "name": "String Compression III",
+        "link": "https://leetcode.com/problems/string-compression-iii/",
+        "point": "4",
+        "contest": "Weekly Contest 399",
+        "id": 2137
+    },
+    {
+        "name": "Find the Number of Good Pairs II",
+        "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-ii/",
+        "point": "5",
+        "contest": "Weekly Contest 399",
+        "id": 2136
+    },
+    {
+        "name": "Maximum Sum of Subsequence With Non-adjacent Elements",
+        "link": "https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/",
+        "point": "8",
+        "contest": "Weekly Contest 399",
+        "id": 2135
+    },
+    {
+        "name": "Find the XOR of Numbers Which Appear Twice",
+        "link": "https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/",
+        "point": "3",
+        "contest": "Biweekly Contest 131",
+        "id": 2134
+    },
+    {
+        "name": "Find Occurrences of an Element in an Array",
+        "link": "https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/",
+        "point": "4",
+        "contest": "Biweekly Contest 131",
+        "id": 2133
+    },
+    {
+        "name": "Find the Number of Distinct Colors Among the Balls",
+        "link": "https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/",
+        "point": "5",
+        "contest": "Biweekly Contest 131",
+        "id": 2132
+    },
+    {
+        "name": "Block Placement Queries",
+        "link": "https://leetcode.com/problems/block-placement-queries/",
+        "point": "8",
+        "contest": "Biweekly Contest 131",
+        "id": 2131
+    },
+    {
+        "name": "Special Array I",
+        "link": "https://leetcode.com/problems/special-array-i/",
+        "point": "3",
+        "contest": "Weekly Contest 398",
+        "id": 2130
+    },
+    {
+        "name": "Special Array II",
+        "link": "https://leetcode.com/problems/special-array-ii/",
+        "point": "4",
+        "contest": "Weekly Contest 398",
+        "id": 2129
+    },
+    {
+        "name": "Sum of Digit Differences of All Pairs",
+        "link": "https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/",
+        "point": "5",
+        "contest": "Weekly Contest 398",
+        "id": 2128
+    },
+    {
+        "name": "Find Number of Ways to Reach the K-th Stair",
+        "link": "https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/",
+        "point": "6",
+        "contest": "Weekly Contest 398",
+        "id": 2127
+    },
+    {
         "name": "Permutation Difference between Two Strings",
         "link": "https://leetcode.com/problems/permutation-difference-between-two-strings/",
         "point": "3",

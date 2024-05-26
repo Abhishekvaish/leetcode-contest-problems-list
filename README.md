@@ -4,6 +4,21 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 399|
+| [Find the Number of Good Pairs I](https://leetcode.com/problems/find-the-number-of-good-pairs-i/)| 3|
+| [String Compression III](https://leetcode.com/problems/string-compression-iii/)| 4|
+| [Find the Number of Good Pairs II](https://leetcode.com/problems/find-the-number-of-good-pairs-ii/)| 5|
+| [Maximum Sum of Subsequence With Non-adjacent Elements](https://leetcode.com/problems/maximum-sum-of-subsequence-with-non-adjacent-elements/)| 8|
+|Biweekly Contest 131|
+| [Find the XOR of Numbers Which Appear Twice](https://leetcode.com/problems/find-the-xor-of-numbers-which-appear-twice/)| 3|
+| [Find Occurrences of an Element in an Array](https://leetcode.com/problems/find-occurrences-of-an-element-in-an-array/)| 4|
+| [Find the Number of Distinct Colors Among the Balls](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/)| 5|
+| [Block Placement Queries](https://leetcode.com/problems/block-placement-queries/)| 8|
+|Weekly Contest 398|
+| [Special Array I](https://leetcode.com/problems/special-array-i/)| 3|
+| [Special Array II](https://leetcode.com/problems/special-array-ii/)| 4|
+| [Sum of Digit Differences of All Pairs](https://leetcode.com/problems/sum-of-digit-differences-of-all-pairs/)| 5|
+| [Find Number of Ways to Reach the K-th Stair](https://leetcode.com/problems/find-number-of-ways-to-reach-the-k-th-stair/)| 6|
 |Weekly Contest 397|
 | [Permutation Difference between Two Strings](https://leetcode.com/problems/permutation-difference-between-two-strings/)| 3|
 | [Taking Maximum Energy From the Mystic Dungeon](https://leetcode.com/problems/taking-maximum-energy-from-the-mystic-dungeon/)| 4|
