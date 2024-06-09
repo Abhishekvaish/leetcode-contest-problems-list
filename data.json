@@ -1,5 +1,89 @@
 [
     {
+        "name": "Find the Child Who Has the Ball After K Seconds",
+        "link": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/",
+        "point": "3",
+        "contest": "Weekly Contest 401",
+        "id": 2150
+    },
+    {
+        "name": "Find the N-th Value After K Seconds",
+        "link": "https://leetcode.com/problems/find-the-n-th-value-after-k-seconds/",
+        "point": "4",
+        "contest": "Weekly Contest 401",
+        "id": 2149
+    },
+    {
+        "name": "Maximum Total Reward Using Operations I",
+        "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-i/",
+        "point": "5",
+        "contest": "Weekly Contest 401",
+        "id": 2148
+    },
+    {
+        "name": "Maximum Total Reward Using Operations II",
+        "link": "https://leetcode.com/problems/maximum-total-reward-using-operations-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 401",
+        "id": 2147
+    },
+    {
+        "name": "Clear Digits",
+        "link": "https://leetcode.com/problems/clear-digits/",
+        "point": "3",
+        "contest": "Biweekly Contest 132",
+        "id": 2146
+    },
+    {
+        "name": "Find The First Player to win K Games in a Row",
+        "link": "https://leetcode.com/problems/find-the-first-player-to-win-k-games-in-a-row/",
+        "point": "4",
+        "contest": "Biweekly Contest 132",
+        "id": 2145
+    },
+    {
+        "name": "Find the Maximum Length of a Good Subsequence I",
+        "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-i/",
+        "point": "5",
+        "contest": "Biweekly Contest 132",
+        "id": 2144
+    },
+    {
+        "name": "Find the Maximum Length of a Good Subsequence II",
+        "link": "https://leetcode.com/problems/find-the-maximum-length-of-a-good-subsequence-ii/",
+        "point": "7",
+        "contest": "Biweekly Contest 132",
+        "id": 2143
+    },
+    {
+        "name": "Minimum Number of Chairs in a Waiting Room",
+        "link": "https://leetcode.com/problems/minimum-number-of-chairs-in-a-waiting-room/",
+        "point": "3",
+        "contest": "Weekly Contest 400",
+        "id": 2142
+    },
+    {
+        "name": "Count Days Without Meetings",
+        "link": "https://leetcode.com/problems/count-days-without-meetings/",
+        "point": "4",
+        "contest": "Weekly Contest 400",
+        "id": 2141
+    },
+    {
+        "name": "Lexicographically Minimum String After Removing Stars",
+        "link": "https://leetcode.com/problems/lexicographically-minimum-string-after-removing-stars/",
+        "point": "5",
+        "contest": "Weekly Contest 400",
+        "id": 2140
+    },
+    {
+        "name": "Find Subarray With Bitwise OR Closest to K",
+        "link": "https://leetcode.com/problems/find-subarray-with-bitwise-or-closest-to-k/",
+        "point": "6",
+        "contest": "Weekly Contest 400",
+        "id": 2139
+    },
+    {
         "name": "Find the Number of Good Pairs I",
         "link": "https://leetcode.com/problems/find-the-number-of-good-pairs-i/",
         "point": "3",
