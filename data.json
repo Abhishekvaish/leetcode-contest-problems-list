@@ -1,5 +1,33 @@
 [
     {
+        "name": "Count Pairs That Form a Complete Day I",
+        "link": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/",
+        "point": "3",
+        "contest": "Weekly Contest 402",
+        "id": 2154
+    },
+    {
+        "name": "Count Pairs That Form a Complete Day II",
+        "link": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-ii/",
+        "point": "4",
+        "contest": "Weekly Contest 402",
+        "id": 2153
+    },
+    {
+        "name": "Maximum Total Damage With Spell Casting",
+        "link": "https://leetcode.com/problems/maximum-total-damage-with-spell-casting/",
+        "point": "5",
+        "contest": "Weekly Contest 402",
+        "id": 2152
+    },
+    {
+        "name": "Peaks in Array",
+        "link": "https://leetcode.com/problems/peaks-in-array/",
+        "point": "6",
+        "contest": "Weekly Contest 402",
+        "id": 2151
+    },
+    {
         "name": "Find the Child Who Has the Ball After K Seconds",
         "link": "https://leetcode.com/problems/find-the-child-who-has-the-ball-after-k-seconds/",
         "point": "3",
