@@ -1,5 +1,61 @@
 [
     {
+        "name": "Minimum Average of Smallest and Largest Elements",
+        "link": "https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/",
+        "point": "3",
+        "contest": "Weekly Contest 403",
+        "id": 2162
+    },
+    {
+        "name": "Find the Minimum Area to Cover All Ones I",
+        "link": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/",
+        "point": "4",
+        "contest": "Weekly Contest 403",
+        "id": 2161
+    },
+    {
+        "name": "Maximize Total Cost of Alternating Subarrays",
+        "link": "https://leetcode.com/problems/maximize-total-cost-of-alternating-subarrays/",
+        "point": "5",
+        "contest": "Weekly Contest 403",
+        "id": 2160
+    },
+    {
+        "name": "Find the Minimum Area to Cover All Ones II",
+        "link": "https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-ii/",
+        "point": "8",
+        "contest": "Weekly Contest 403",
+        "id": 2159
+    },
+    {
+        "name": "Find Minimum Operations to Make All Elements Divisible by Three",
+        "link": "https://leetcode.com/problems/find-minimum-operations-to-make-all-elements-divisible-by-three/",
+        "point": "3",
+        "contest": "Biweekly Contest 133",
+        "id": 2158
+    },
+    {
+        "name": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-i/",
+        "point": "4",
+        "contest": "Biweekly Contest 133",
+        "id": 2157
+    },
+    {
+        "name": "Minimum Operations to Make Binary Array Elements Equal to One II",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-binary-array-elements-equal-to-one-ii/",
+        "point": "5",
+        "contest": "Biweekly Contest 133",
+        "id": 2156
+    },
+    {
+        "name": "Count the Number of Inversions",
+        "link": "https://leetcode.com/problems/count-the-number-of-inversions/",
+        "point": "7",
+        "contest": "Biweekly Contest 133",
+        "id": 2155
+    },
+    {
         "name": "Count Pairs That Form a Complete Day I",
         "link": "https://leetcode.com/problems/count-pairs-that-form-a-complete-day-i/",
         "point": "3",
