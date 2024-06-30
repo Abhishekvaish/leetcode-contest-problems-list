@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 404|
+| [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/)| 3|
+| [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)| 4|
+| [Find the Maximum Length of Valid Subsequence II](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-ii/)| 5|
+| [Find Minimum Diameter After Merging Two Trees](https://leetcode.com/problems/find-minimum-diameter-after-merging-two-trees/)| 7|
 |Weekly Contest 403|
 | [Minimum Average of Smallest and Largest Elements](https://leetcode.com/problems/minimum-average-of-smallest-and-largest-elements/)| 3|
 | [Find the Minimum Area to Cover All Ones I](https://leetcode.com/problems/find-the-minimum-area-to-cover-all-ones-i/)| 4|
