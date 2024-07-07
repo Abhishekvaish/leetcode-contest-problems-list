@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find the Encrypted String",
+        "link": "https://leetcode.com/problems/find-the-encrypted-string/",
+        "point": "3",
+        "contest": "Weekly Contest 405",
+        "id": 2174
+    },
+    {
+        "name": "Generate Binary Strings Without Adjacent Zeros",
+        "link": "https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/",
+        "point": "4",
+        "contest": "Weekly Contest 405",
+        "id": 2173
+    },
+    {
+        "name": "Count Submatrices With Equal Frequency of X and Y",
+        "link": "https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/",
+        "point": "5",
+        "contest": "Weekly Contest 405",
+        "id": 2172
+    },
+    {
+        "name": "Construct String with Minimum Cost",
+        "link": "https://leetcode.com/problems/construct-string-with-minimum-cost/",
+        "point": "8",
+        "contest": "Weekly Contest 405",
+        "id": 2171
+    },
+    {
+        "name": "Alternating Groups I",
+        "link": "https://leetcode.com/problems/alternating-groups-i/",
+        "point": "3",
+        "contest": "Biweekly Contest 134",
+        "id": 2170
+    },
+    {
+        "name": "Maximum Points After Enemy Battles",
+        "link": "https://leetcode.com/problems/maximum-points-after-enemy-battles/",
+        "point": "4",
+        "contest": "Biweekly Contest 134",
+        "id": 2169
+    },
+    {
+        "name": "Alternating Groups II",
+        "link": "https://leetcode.com/problems/alternating-groups-ii/",
+        "point": "5",
+        "contest": "Biweekly Contest 134",
+        "id": 2168
+    },
+    {
+        "name": "Number of Subarrays With AND Value of K",
+        "link": "https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/",
+        "point": "7",
+        "contest": "Biweekly Contest 134",
+        "id": 2167
+    },
+    {
         "name": "Maximum Height of a Triangle",
         "link": "https://leetcode.com/problems/maximum-height-of-a-triangle/",
         "point": "3",

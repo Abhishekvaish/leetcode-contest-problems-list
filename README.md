@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 405|
+| [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/)| 3|
+| [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| 4|
+| [Count Submatrices With Equal Frequency of X and Y](https://leetcode.com/problems/count-submatrices-with-equal-frequency-of-x-and-y/)| 5|
+| [Construct String with Minimum Cost](https://leetcode.com/problems/construct-string-with-minimum-cost/)| 8|
+|Biweekly Contest 134|
+| [Alternating Groups I](https://leetcode.com/problems/alternating-groups-i/)| 3|
+| [Maximum Points After Enemy Battles](https://leetcode.com/problems/maximum-points-after-enemy-battles/)| 4|
+| [Alternating Groups II](https://leetcode.com/problems/alternating-groups-ii/)| 5|
+| [Number of Subarrays With AND Value of K](https://leetcode.com/problems/number-of-subarrays-with-and-value-of-k/)| 7|
 |Weekly Contest 404|
 | [Maximum Height of a Triangle](https://leetcode.com/problems/maximum-height-of-a-triangle/)| 3|
 | [Find the Maximum Length of Valid Subsequence I](https://leetcode.com/problems/find-the-maximum-length-of-valid-subsequence-i/)| 4|
