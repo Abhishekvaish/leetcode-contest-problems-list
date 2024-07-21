@@ -4,6 +4,21 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 407|
+| [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/)| 3|
+| [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)| 4|
+| [Maximum Number of Operations to Move Ones to the End](https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/)| 5|
+| [Minimum Operations to Make Array Equal to Target](https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/)| 8|
+|Biweekly Contest 135|
+| [Find the Winning Player in Coin Game](https://leetcode.com/problems/find-the-winning-player-in-coin-game/)| 3|
+| [Minimum Length of String After Operations](https://leetcode.com/problems/minimum-length-of-string-after-operations/)| 4|
+| [Minimum Array Changes to Make Differences Equal](https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/)| 5|
+| [Maximum Score From Grid Operations](https://leetcode.com/problems/maximum-score-from-grid-operations/)| 8|
+|Weekly Contest 406|
+| [Lexicographically Smallest String After a Swap](https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/)| 3|
+| [Delete Nodes From Linked List Present in Array](https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/)| 4|
+| [Minimum Cost for Cutting Cake I](https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/)| 5|
+| [Minimum Cost for Cutting Cake II](https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/)| 7|
 |Weekly Contest 405|
 | [Find the Encrypted String](https://leetcode.com/problems/find-the-encrypted-string/)| 3|
 | [Generate Binary Strings Without Adjacent Zeros](https://leetcode.com/problems/generate-binary-strings-without-adjacent-zeros/)| 4|

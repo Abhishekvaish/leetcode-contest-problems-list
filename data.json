@@ -1,5 +1,89 @@
 [
     {
+        "name": "Number of Bit Changes to Make Two Integers Equal",
+        "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/",
+        "point": "3",
+        "contest": "Weekly Contest 407",
+        "id": 2186
+    },
+    {
+        "name": "Vowels Game in a String",
+        "link": "https://leetcode.com/problems/vowels-game-in-a-string/",
+        "point": "4",
+        "contest": "Weekly Contest 407",
+        "id": 2185
+    },
+    {
+        "name": "Maximum Number of Operations to Move Ones to the End",
+        "link": "https://leetcode.com/problems/maximum-number-of-operations-to-move-ones-to-the-end/",
+        "point": "5",
+        "contest": "Weekly Contest 407",
+        "id": 2184
+    },
+    {
+        "name": "Minimum Operations to Make Array Equal to Target",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-equal-to-target/",
+        "point": "8",
+        "contest": "Weekly Contest 407",
+        "id": 2183
+    },
+    {
+        "name": "Find the Winning Player in Coin Game",
+        "link": "https://leetcode.com/problems/find-the-winning-player-in-coin-game/",
+        "point": "3",
+        "contest": "Biweekly Contest 135",
+        "id": 2182
+    },
+    {
+        "name": "Minimum Length of String After Operations",
+        "link": "https://leetcode.com/problems/minimum-length-of-string-after-operations/",
+        "point": "4",
+        "contest": "Biweekly Contest 135",
+        "id": 2181
+    },
+    {
+        "name": "Minimum Array Changes to Make Differences Equal",
+        "link": "https://leetcode.com/problems/minimum-array-changes-to-make-differences-equal/",
+        "point": "5",
+        "contest": "Biweekly Contest 135",
+        "id": 2180
+    },
+    {
+        "name": "Maximum Score From Grid Operations",
+        "link": "https://leetcode.com/problems/maximum-score-from-grid-operations/",
+        "point": "8",
+        "contest": "Biweekly Contest 135",
+        "id": 2179
+    },
+    {
+        "name": "Lexicographically Smallest String After a Swap",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-string-after-a-swap/",
+        "point": "3",
+        "contest": "Weekly Contest 406",
+        "id": 2178
+    },
+    {
+        "name": "Delete Nodes From Linked List Present in Array",
+        "link": "https://leetcode.com/problems/delete-nodes-from-linked-list-present-in-array/",
+        "point": "4",
+        "contest": "Weekly Contest 406",
+        "id": 2177
+    },
+    {
+        "name": "Minimum Cost for Cutting Cake I",
+        "link": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-i/",
+        "point": "5",
+        "contest": "Weekly Contest 406",
+        "id": 2176
+    },
+    {
+        "name": "Minimum Cost for Cutting Cake II",
+        "link": "https://leetcode.com/problems/minimum-cost-for-cutting-cake-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 406",
+        "id": 2175
+    },
+    {
         "name": "Find the Encrypted String",
         "link": "https://leetcode.com/problems/find-the-encrypted-string/",
         "point": "3",
