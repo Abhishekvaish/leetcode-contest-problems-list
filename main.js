@@ -9,13 +9,17 @@ const state = {
     data : [],
     solved : [],
     searchedText : "",
+    selected_point : "all",
     pageNo : 1,
     showContestName : true,
     sortBy: (a,b) => b['id']-a['id']
 }
+let all_problems = [];
+
 
 async function main(){
     state.data = await (await fetch('./data.json')).json()
+    all_problems = JSON.parse(JSON.stringify(state.data));
     state.solved = new Set(JSON.parse(localStorage.getItem('solved')) ?? [])
     render(state)
 }
@@ -30,6 +34,15 @@ document.querySelector('#search-text').oninput = e => {
 
 document.querySelector("#show-contest-title").onchange = e => {
     state.showContestName = e.target.checked
+    render(state)
+}
+
+document.querySelector('#points-select').onchange = e => {
+    state.selected_point = e.target.value;
+    state.data = JSON.parse(JSON.stringify(all_problems));
+    if(state.selected_point !== "all"){
+        state.data = state.data.filter(value => value.point === state.selected_point);
+    }
     render(state)
 }
 
