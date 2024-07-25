@@ -32,6 +32,7 @@ document.querySelector('#search-text').oninput = e => {
     
 }
 
+
 document.querySelector("#show-contest-title").onchange = e => {
     state.showContestName = e.target.checked
     render(state)
