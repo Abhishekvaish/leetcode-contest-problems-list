@@ -98,7 +98,7 @@ function render( {data , searchedText , pageNo, showContestName, sortBy, solved,
     
 
     if(selectedPoint != "all"){
-        data = data.filter(row => row.point == selected_point)
+        data = data.filter(row => row.point == selectedPoint)
     }
 
     // sort logic 
