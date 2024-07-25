@@ -9,7 +9,7 @@ const state = {
     data : [],
     solved : [],
     searchedText : "",
-    selected_point : "all",
+    selectedPoint : "all",
     pageNo : 1,
     showContestName : true,
     sortBy: (a,b) => b['id']-a['id']
@@ -36,7 +36,7 @@ document.querySelector("#show-contest-title").onchange = e => {
 }
 
 document.querySelector('#points-select').onchange = e => {
-    state.selected_point = e.target.value;
+    state.selectedPoint = e.target.value;
     render(state)
 }
 
@@ -88,7 +88,7 @@ function check(problemId , checked){
 
 
 
-function render( {data , searchedText , pageNo, showContestName, sortBy, solved, selected_point}  ){
+function render( {data , searchedText , pageNo, showContestName, sortBy, solved, selectedPoint}  ){
     // search logic 
     if (searchedText.length > 0)
         data  = data.filter(row => 
@@ -97,7 +97,7 @@ function render( {data , searchedText , pageNo, showContestName, sortBy, solved,
         )
     
 
-    if(selected_point != "all"){
+    if(selectedPoint != "all"){
         data = data.filter(row => row.point == selected_point)
     }
 
