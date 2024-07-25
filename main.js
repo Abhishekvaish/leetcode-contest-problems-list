@@ -14,12 +14,9 @@ const state = {
     showContestName : true,
     sortBy: (a,b) => b['id']-a['id']
 }
-let all_problems = [];
-
 
 async function main(){
     state.data = await (await fetch('./data.json')).json()
-    all_problems = JSON.parse(JSON.stringify(state.data));
     state.solved = new Set(JSON.parse(localStorage.getItem('solved')) ?? [])
     render(state)
 }
@@ -40,10 +37,6 @@ document.querySelector("#show-contest-title").onchange = e => {
 
 document.querySelector('#points-select').onchange = e => {
     state.selected_point = e.target.value;
-    state.data = JSON.parse(JSON.stringify(all_problems));
-    if(state.selected_point !== "all"){
-        state.data = state.data.filter(value => value.point === state.selected_point);
-    }
     render(state)
 }
 
@@ -95,14 +88,18 @@ function check(problemId , checked){
 
 
 
-function render( {data , searchedText , pageNo, showContestName, sortBy, solved}  ){
+function render( {data , searchedText , pageNo, showContestName, sortBy, solved, selected_point}  ){
     // search logic 
     if (searchedText.length > 0)
         data  = data.filter(row => 
             row['name'].toLowerCase().includes(searchedText) || 
             row['contest'].toLowerCase().includes(searchedText)
         )
+    
 
+    if(selected_point != "all"){
+        data = data.filter(row => row.point == selected_point)
+    }
 
     // sort logic 
     data.sort(sortBy)
