@@ -224,3 +224,27 @@ tbody tr:hover {
     background-color: #c68035;
     color: rgba(0, 0, 0, 0.275);
   }
+
+
+label {
+    font-size: 16px;
+    color: #333;
+}
+
+select {
+    padding: 6px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    outline: none;
+    transition: border-color 0.3s ease;
+}
+
+select:focus {
+    border-color: #007bff;
+}
+
+option {
+    font-size: 16px;
+}
