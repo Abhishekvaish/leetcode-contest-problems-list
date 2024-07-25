@@ -226,12 +226,9 @@ tbody tr:hover {
   }
 
 
-label {
-    font-size: 16px;
-    color: #333;
-}
 
-select {
+
+#points-select {
     padding: 6px;
     font-size: 16px;
     border: 1px solid #ccc;
@@ -241,10 +238,10 @@ select {
     transition: border-color 0.3s ease;
 }
 
-select:focus {
+#points-select:focus {
     border-color: #007bff;
 }
 
-option {
+#points-select>option {
     font-size: 16px;
 }
