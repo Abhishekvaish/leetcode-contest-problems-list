@@ -81,8 +81,8 @@ function check(problemId , checked){
     if (checked) state.solved.add(problemId)
     else state.solved.delete(problemId)
     localStorage.setItem('solved', JSON.stringify(Array.from(state.solved)))
-    contestHeaderDiv.querySelector('.progress').innerText  = "(" + state.solved.size + "/" + state.data.length + ")"
-    // render(state)
+    // contestHeaderDiv.querySelector('.progress').innerText  = "(" + state.solved.size + "/" + state.data.length + ")"
+    render(state)
 
 }
 
@@ -100,9 +100,15 @@ function render( {data , searchedText , pageNo, showContestName, sortBy, solved,
     if(selectedPoint != "all"){
         data = data.filter(row => row.point == selectedPoint)
     }
+    
 
     // sort logic 
-    data.sort(sortBy)
+    data.sort(sortBy);
+
+    // calculate solvedSize and totalSize from the filtered data 
+    const totalSize = data.length;
+    const solvedSize = data.filter(row => solved.has(row.id)).length;
+    
 
     // page number logic
     let offset = (pageNo-1) * ROWS_PER_PAGE
@@ -145,9 +151,10 @@ function render( {data , searchedText , pageNo, showContestName, sortBy, solved,
         tableDiv.appendChild(rowItem)
     });
 
+    
 
     // progress 
-    contestHeaderDiv.querySelector('.progress').innerText  = "(" + state.solved.size + "/" + state.data.length + ")"
+    contestHeaderDiv.querySelector('.progress').innerText  = "(" + solvedSize + "/" + totalSize + ")"
     
 
     window.state = state
