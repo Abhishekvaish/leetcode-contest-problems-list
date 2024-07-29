@@ -1,5 +1,33 @@
 [
     {
+        "name": "Find if Digit Game Can Be Won",
+        "link": "https://leetcode.com/problems/find-if-digit-game-can-be-won/",
+        "point": "3",
+        "contest": "Weekly Contest 408",
+        "id": 2190
+    },
+    {
+        "name": "Find the Count of Numbers Which Are Not Special",
+        "link": "https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/",
+        "point": "5",
+        "contest": "Weekly Contest 408",
+        "id": 2189
+    },
+    {
+        "name": "Count the Number of Substrings With Dominant Ones",
+        "link": "https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/",
+        "point": "5",
+        "contest": "Weekly Contest 408",
+        "id": 2188
+    },
+    {
+        "name": "Check if the Rectangle Corner Is Reachable",
+        "link": "https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/",
+        "point": "7",
+        "contest": "Weekly Contest 408",
+        "id": 2187
+    },
+    {
         "name": "Number of Bit Changes to Make Two Integers Equal",
         "link": "https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/",
         "point": "3",

@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 408|
+| [Find if Digit Game Can Be Won](https://leetcode.com/problems/find-if-digit-game-can-be-won/)| 3|
+| [Find the Count of Numbers Which Are Not Special](https://leetcode.com/problems/find-the-count-of-numbers-which-are-not-special/)| 5|
+| [Count the Number of Substrings With Dominant Ones](https://leetcode.com/problems/count-the-number-of-substrings-with-dominant-ones/)| 5|
+| [Check if the Rectangle Corner Is Reachable](https://leetcode.com/problems/check-if-the-rectangle-corner-is-reachable/)| 7|
 |Weekly Contest 407|
 | [Number of Bit Changes to Make Two Integers Equal](https://leetcode.com/problems/number-of-bit-changes-to-make-two-integers-equal/)| 3|
 | [Vowels Game in a String](https://leetcode.com/problems/vowels-game-in-a-string/)| 4|
