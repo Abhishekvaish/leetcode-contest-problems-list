@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 410|
+| [Snake in Matrix](https://leetcode.com/problems/snake-in-matrix/)| 3|
+| [Count the Number of Good Nodes](https://leetcode.com/problems/count-the-number-of-good-nodes/)| 4|
+| [Find the Count of Monotonic Pairs I](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-i/)| 6|
+| [Find the Count of Monotonic Pairs II](https://leetcode.com/problems/find-the-count-of-monotonic-pairs-ii/)| 7|
 |Weekly Contest 409|
 | [Design Neighbor Sum Service](https://leetcode.com/problems/design-neighbor-sum-service/)| 3|
 | [Shortest Distance After Road Addition Queries I](https://leetcode.com/problems/shortest-distance-after-road-addition-queries-i/)| 4|
