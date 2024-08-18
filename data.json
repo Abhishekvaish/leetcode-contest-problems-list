@@ -1,5 +1,61 @@
 [
     {
+        "name": "Count Substrings That Satisfy K-Constraint I",
+        "link": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
+        "point": "3",
+        "contest": "Weekly Contest 411",
+        "id": 2210
+    },
+    {
+        "name": "Maximum Energy Boost From Two Drinks",
+        "link": "https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/",
+        "point": "4",
+        "contest": "Weekly Contest 411",
+        "id": 2209
+    },
+    {
+        "name": "Find the Largest Palindrome Divisible by K",
+        "link": "https://leetcode.com/problems/find-the-largest-palindrome-divisible-by-k/",
+        "point": "6",
+        "contest": "Weekly Contest 411",
+        "id": 2208
+    },
+    {
+        "name": "Count Substrings That Satisfy K-Constraint II",
+        "link": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-ii/",
+        "point": "6",
+        "contest": "Weekly Contest 411",
+        "id": 2207
+    },
+    {
+        "name": "Find the Power of K-Size Subarrays I",
+        "link": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-i/",
+        "point": "4",
+        "contest": "Biweekly Contest 137",
+        "id": 2206
+    },
+    {
+        "name": "Find the Power of K-Size Subarrays II",
+        "link": "https://leetcode.com/problems/find-the-power-of-k-size-subarrays-ii/",
+        "point": "5",
+        "contest": "Biweekly Contest 137",
+        "id": 2205
+    },
+    {
+        "name": "Maximum Value Sum by Placing Three Rooks I",
+        "link": "https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-i/",
+        "point": "6",
+        "contest": "Biweekly Contest 137",
+        "id": 2204
+    },
+    {
+        "name": "Maximum Value Sum by Placing Three Rooks II",
+        "link": "https://leetcode.com/problems/maximum-value-sum-by-placing-three-rooks-ii/",
+        "point": "8",
+        "contest": "Biweekly Contest 137",
+        "id": 2203
+    },
+    {
         "name": "Snake in Matrix",
         "link": "https://leetcode.com/problems/snake-in-matrix/",
         "point": "3",
