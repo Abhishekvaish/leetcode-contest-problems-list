@@ -1,5 +1,89 @@
 [
     {
+        "name": "Check if Two Chessboard Squares Have the Same Color",
+        "link": "https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/",
+        "point": "3",
+        "contest": "Weekly Contest 413",
+        "id": 2222
+    },
+    {
+        "name": "K-th Nearest Obstacle Queries",
+        "link": "https://leetcode.com/problems/k-th-nearest-obstacle-queries/",
+        "point": "5",
+        "contest": "Weekly Contest 413",
+        "id": 2221
+    },
+    {
+        "name": "Select Cells in Grid With Maximum Score",
+        "link": "https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/",
+        "point": "6",
+        "contest": "Weekly Contest 413",
+        "id": 2220
+    },
+    {
+        "name": "Maximum XOR Score Subarray Queries",
+        "link": "https://leetcode.com/problems/maximum-xor-score-subarray-queries/",
+        "point": "7",
+        "contest": "Weekly Contest 413",
+        "id": 2219
+    },
+    {
+        "name": "Find the Key of the Numbers",
+        "link": "https://leetcode.com/problems/find-the-key-of-the-numbers/",
+        "point": "3",
+        "contest": "Biweekly Contest 138",
+        "id": 2218
+    },
+    {
+        "name": "Hash Divided String",
+        "link": "https://leetcode.com/problems/hash-divided-string/",
+        "point": "4",
+        "contest": "Biweekly Contest 138",
+        "id": 2217
+    },
+    {
+        "name": "Find the Count of Good Integers",
+        "link": "https://leetcode.com/problems/find-the-count-of-good-integers/",
+        "point": "7",
+        "contest": "Biweekly Contest 138",
+        "id": 2216
+    },
+    {
+        "name": "Minimum Amount of Damage Dealt to Bob",
+        "link": "https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/",
+        "point": "7",
+        "contest": "Biweekly Contest 138",
+        "id": 2215
+    },
+    {
+        "name": "Final Array State After K Multiplication Operations I",
+        "link": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/",
+        "point": "3",
+        "contest": "Weekly Contest 412",
+        "id": 2214
+    },
+    {
+        "name": "Count Almost Equal Pairs I",
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-i/",
+        "point": "4",
+        "contest": "Weekly Contest 412",
+        "id": 2213
+    },
+    {
+        "name": "Final Array State After K Multiplication Operations II",
+        "link": "https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 412",
+        "id": 2212
+    },
+    {
+        "name": "Count Almost Equal Pairs II",
+        "link": "https://leetcode.com/problems/count-almost-equal-pairs-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 412",
+        "id": 2211
+    },
+    {
         "name": "Count Substrings That Satisfy K-Constraint I",
         "link": "https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/",
         "point": "3",

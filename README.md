@@ -4,6 +4,21 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 413|
+| [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/)| 3|
+| [K-th Nearest Obstacle Queries](https://leetcode.com/problems/k-th-nearest-obstacle-queries/)| 5|
+| [Select Cells in Grid With Maximum Score](https://leetcode.com/problems/select-cells-in-grid-with-maximum-score/)| 6|
+| [Maximum XOR Score Subarray Queries](https://leetcode.com/problems/maximum-xor-score-subarray-queries/)| 7|
+|Biweekly Contest 138|
+| [Find the Key of the Numbers](https://leetcode.com/problems/find-the-key-of-the-numbers/)| 3|
+| [Hash Divided String](https://leetcode.com/problems/hash-divided-string/)| 4|
+| [Find the Count of Good Integers](https://leetcode.com/problems/find-the-count-of-good-integers/)| 7|
+| [Minimum Amount of Damage Dealt to Bob](https://leetcode.com/problems/minimum-amount-of-damage-dealt-to-bob/)| 7|
+|Weekly Contest 412|
+| [Final Array State After K Multiplication Operations I](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-i/)| 3|
+| [Count Almost Equal Pairs I](https://leetcode.com/problems/count-almost-equal-pairs-i/)| 4|
+| [Final Array State After K Multiplication Operations II](https://leetcode.com/problems/final-array-state-after-k-multiplication-operations-ii/)| 7|
+| [Count Almost Equal Pairs II](https://leetcode.com/problems/count-almost-equal-pairs-ii/)| 7|
 |Weekly Contest 411|
 | [Count Substrings That Satisfy K-Constraint I](https://leetcode.com/problems/count-substrings-that-satisfy-k-constraint-i/)| 3|
 | [Maximum Energy Boost From Two Drinks](https://leetcode.com/problems/maximum-energy-boost-from-two-drinks/)| 4|
