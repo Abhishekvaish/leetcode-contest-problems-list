@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 414|
+| [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)| 3|
+| [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/)| 5|
+| [Reach End of Array With Max Score](https://leetcode.com/problems/reach-end-of-array-with-max-score/)| 5|
+| [Maximum Number of Moves to Kill All Pawns](https://leetcode.com/problems/maximum-number-of-moves-to-kill-all-pawns/)| 8|
 |Weekly Contest 413|
 | [Check if Two Chessboard Squares Have the Same Color](https://leetcode.com/problems/check-if-two-chessboard-squares-have-the-same-color/)| 3|
 | [K-th Nearest Obstacle Queries](https://leetcode.com/problems/k-th-nearest-obstacle-queries/)| 5|
