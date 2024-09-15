@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 415|
+| [The Two Sneaky Numbers of Digitville](https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/)| 3|
+| [Maximum Multiplication Score](https://leetcode.com/problems/maximum-multiplication-score/)| 5|
+| [Minimum Number of Valid Strings to Form Target I](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/)| 5|
+| [Minimum Number of Valid Strings to Form Target II](https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/)| 8|
+|Biweekly Contest 139|
+| [Find Indices of Stable Mountains](https://leetcode.com/problems/find-indices-of-stable-mountains/)| 3|
+| [Find a Safe Walk Through a Grid](https://leetcode.com/problems/find-a-safe-walk-through-a-grid/)| 5|
+| [Find the Maximum Sequence Value of Array](https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/)| 6|
+| [Length of the Longest Increasing Path](https://leetcode.com/problems/length-of-the-longest-increasing-path/)| 7|
 |Weekly Contest 414|
 | [Convert Date to Binary](https://leetcode.com/problems/convert-date-to-binary/)| 3|
 | [Maximize Score of Numbers in Ranges](https://leetcode.com/problems/maximize-score-of-numbers-in-ranges/)| 5|

@@ -1,5 +1,61 @@
 [
     {
+        "name": "The Two Sneaky Numbers of Digitville",
+        "link": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
+        "point": "3",
+        "contest": "Weekly Contest 415",
+        "id": 2234
+    },
+    {
+        "name": "Maximum Multiplication Score",
+        "link": "https://leetcode.com/problems/maximum-multiplication-score/",
+        "point": "5",
+        "contest": "Weekly Contest 415",
+        "id": 2233
+    },
+    {
+        "name": "Minimum Number of Valid Strings to Form Target I",
+        "link": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-i/",
+        "point": "5",
+        "contest": "Weekly Contest 415",
+        "id": 2232
+    },
+    {
+        "name": "Minimum Number of Valid Strings to Form Target II",
+        "link": "https://leetcode.com/problems/minimum-number-of-valid-strings-to-form-target-ii/",
+        "point": "8",
+        "contest": "Weekly Contest 415",
+        "id": 2231
+    },
+    {
+        "name": "Find Indices of Stable Mountains",
+        "link": "https://leetcode.com/problems/find-indices-of-stable-mountains/",
+        "point": "3",
+        "contest": "Biweekly Contest 139",
+        "id": 2230
+    },
+    {
+        "name": "Find a Safe Walk Through a Grid",
+        "link": "https://leetcode.com/problems/find-a-safe-walk-through-a-grid/",
+        "point": "5",
+        "contest": "Biweekly Contest 139",
+        "id": 2229
+    },
+    {
+        "name": "Find the Maximum Sequence Value of Array",
+        "link": "https://leetcode.com/problems/find-the-maximum-sequence-value-of-array/",
+        "point": "6",
+        "contest": "Biweekly Contest 139",
+        "id": 2228
+    },
+    {
+        "name": "Length of the Longest Increasing Path",
+        "link": "https://leetcode.com/problems/length-of-the-longest-increasing-path/",
+        "point": "7",
+        "contest": "Biweekly Contest 139",
+        "id": 2227
+    },
+    {
         "name": "Convert Date to Binary",
         "link": "https://leetcode.com/problems/convert-date-to-binary/",
         "point": "3",
