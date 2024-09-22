@@ -1,5 +1,33 @@
 [
     {
+        "name": "Report Spam Message",
+        "link": "https://leetcode.com/problems/report-spam-message/",
+        "point": "4",
+        "contest": "Weekly Contest 416",
+        "id": 2238
+    },
+    {
+        "name": "Minimum Number of Seconds to Make Mountain Height Zero",
+        "link": "https://leetcode.com/problems/minimum-number-of-seconds-to-make-mountain-height-zero/",
+        "point": "5",
+        "contest": "Weekly Contest 416",
+        "id": 2237
+    },
+    {
+        "name": "Count Substrings That Can Be Rearranged to Contain a String I",
+        "link": "https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-i/",
+        "point": "5",
+        "contest": "Weekly Contest 416",
+        "id": 2236
+    },
+    {
+        "name": "Count Substrings That Can Be Rearranged to Contain a String II",
+        "link": "https://leetcode.com/problems/count-substrings-that-can-be-rearranged-to-contain-a-string-ii/",
+        "point": "6",
+        "contest": "Weekly Contest 416",
+        "id": 2235
+    },
+    {
         "name": "The Two Sneaky Numbers of Digitville",
         "link": "https://leetcode.com/problems/the-two-sneaky-numbers-of-digitville/",
         "point": "3",
