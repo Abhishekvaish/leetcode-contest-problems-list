@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find the K-th Character in String Game I",
+        "link": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
+        "point": "3",
+        "contest": "Weekly Contest 417",
+        "id": 2246
+    },
+    {
+        "name": "Count of Substrings Containing Every Vowel and K Consonants I",
+        "link": "https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/",
+        "point": "4",
+        "contest": "Weekly Contest 417",
+        "id": 2245
+    },
+    {
+        "name": "Count of Substrings Containing Every Vowel and K Consonants II",
+        "link": "https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-ii/",
+        "point": "5",
+        "contest": "Weekly Contest 417",
+        "id": 2244
+    },
+    {
+        "name": "Find the K-th Character in String Game II",
+        "link": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-ii/",
+        "point": "6",
+        "contest": "Weekly Contest 417",
+        "id": 2243
+    },
+    {
+        "name": "Minimum Element After Replacement With Digit Sum",
+        "link": "https://leetcode.com/problems/minimum-element-after-replacement-with-digit-sum/",
+        "point": "3",
+        "contest": "Biweekly Contest 140",
+        "id": 2242
+    },
+    {
+        "name": "Maximize the Total Height of Unique Towers",
+        "link": "https://leetcode.com/problems/maximize-the-total-height-of-unique-towers/",
+        "point": "5",
+        "contest": "Biweekly Contest 140",
+        "id": 2241
+    },
+    {
+        "name": "Find the Lexicographically Smallest Valid Sequence",
+        "link": "https://leetcode.com/problems/find-the-lexicographically-smallest-valid-sequence/",
+        "point": "5",
+        "contest": "Biweekly Contest 140",
+        "id": 2240
+    },
+    {
+        "name": "Find the Occurrence of First Almost Equal Substring",
+        "link": "https://leetcode.com/problems/find-the-occurrence-of-first-almost-equal-substring/",
+        "point": "6",
+        "contest": "Biweekly Contest 140",
+        "id": 2239
+    },
+    {
         "name": "Report Spam Message",
         "link": "https://leetcode.com/problems/report-spam-message/",
         "point": "4",
