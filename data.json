@@ -1,5 +1,33 @@
 [
     {
+        "name": "Maximum Possible Number by Binary Concatenation",
+        "link": "https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/",
+        "point": "4",
+        "contest": "Weekly Contest 418",
+        "id": 2250
+    },
+    {
+        "name": "Remove Methods From Project",
+        "link": "https://leetcode.com/problems/remove-methods-from-project/",
+        "point": "5",
+        "contest": "Weekly Contest 418",
+        "id": 2249
+    },
+    {
+        "name": "Construct 2D Grid Matching Graph Layout",
+        "link": "https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/",
+        "point": "7",
+        "contest": "Weekly Contest 418",
+        "id": 2248
+    },
+    {
+        "name": "Sorted GCD Pair Queries",
+        "link": "https://leetcode.com/problems/sorted-gcd-pair-queries/",
+        "point": "8",
+        "contest": "Weekly Contest 418",
+        "id": 2247
+    },
+    {
         "name": "Find the K-th Character in String Game I",
         "link": "https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/",
         "point": "3",

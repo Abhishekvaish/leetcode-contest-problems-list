@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 418|
+| [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/)| 4|
+| [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)| 5|
+| [Construct 2D Grid Matching Graph Layout](https://leetcode.com/problems/construct-2d-grid-matching-graph-layout/)| 7|
+| [Sorted GCD Pair Queries](https://leetcode.com/problems/sorted-gcd-pair-queries/)| 8|
 |Weekly Contest 417|
 | [Find the K-th Character in String Game I](https://leetcode.com/problems/find-the-k-th-character-in-string-game-i/)| 3|
 | [Count of Substrings Containing Every Vowel and K Consonants I](https://leetcode.com/problems/count-of-substrings-containing-every-vowel-and-k-consonants-i/)| 4|
