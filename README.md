@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 419|
+| [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)| 3|
+| [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/)| 5|
+| [Count The Number of Winning Sequences](https://leetcode.com/problems/count-the-number-of-winning-sequences/)| 6|
+| [Find X-Sum of All K-Long Subarrays II](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/)| 7|
+|Biweekly Contest 141|
+| [Construct the Minimum Bitwise Array I](https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/)| 3|
+| [Construct the Minimum Bitwise Array II](https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/)| 5|
+| [Find Maximum Removals From Source String](https://leetcode.com/problems/find-maximum-removals-from-source-string/)| 5|
+| [Find the Number of Possible Ways for an Event](https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/)| 6|
 |Weekly Contest 418|
 | [Maximum Possible Number by Binary Concatenation](https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/)| 4|
 | [Remove Methods From Project](https://leetcode.com/problems/remove-methods-from-project/)| 5|

@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find X-Sum of All K-Long Subarrays I",
+        "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
+        "point": "3",
+        "contest": "Weekly Contest 419",
+        "id": 2258
+    },
+    {
+        "name": "K-th Largest Perfect Subtree Size in Binary Tree",
+        "link": "https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/",
+        "point": "5",
+        "contest": "Weekly Contest 419",
+        "id": 2257
+    },
+    {
+        "name": "Count The Number of Winning Sequences",
+        "link": "https://leetcode.com/problems/count-the-number-of-winning-sequences/",
+        "point": "6",
+        "contest": "Weekly Contest 419",
+        "id": 2256
+    },
+    {
+        "name": "Find X-Sum of All K-Long Subarrays II",
+        "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 419",
+        "id": 2255
+    },
+    {
+        "name": "Construct the Minimum Bitwise Array I",
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-i/",
+        "point": "3",
+        "contest": "Biweekly Contest 141",
+        "id": 2254
+    },
+    {
+        "name": "Construct the Minimum Bitwise Array II",
+        "link": "https://leetcode.com/problems/construct-the-minimum-bitwise-array-ii/",
+        "point": "5",
+        "contest": "Biweekly Contest 141",
+        "id": 2253
+    },
+    {
+        "name": "Find Maximum Removals From Source String",
+        "link": "https://leetcode.com/problems/find-maximum-removals-from-source-string/",
+        "point": "5",
+        "contest": "Biweekly Contest 141",
+        "id": 2252
+    },
+    {
+        "name": "Find the Number of Possible Ways for an Event",
+        "link": "https://leetcode.com/problems/find-the-number-of-possible-ways-for-an-event/",
+        "point": "6",
+        "contest": "Biweekly Contest 141",
+        "id": 2251
+    },
+    {
         "name": "Maximum Possible Number by Binary Concatenation",
         "link": "https://leetcode.com/problems/maximum-possible-number-by-binary-concatenation/",
         "point": "4",
