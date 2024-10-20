@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 420|
+| [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/)| 4|
+| [Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/)| 5|
+| [Minimum Division Operations to Make Array Non Decreasing](https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/)| 5|
+| [Check if DFS Strings Are Palindromes](https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/)| 7|
 |Weekly Contest 419|
 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/)| 3|
 | [K-th Largest Perfect Subtree Size in Binary Tree](https://leetcode.com/problems/k-th-largest-perfect-subtree-size-in-binary-tree/)| 5|

@@ -1,5 +1,33 @@
 [
     {
+        "name": "Find the Sequence of Strings Appeared on the Screen",
+        "link": "https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/",
+        "point": "4",
+        "contest": "Weekly Contest 420",
+        "id": 2262
+    },
+    {
+        "name": "Count Substrings With K-Frequency Characters I",
+        "link": "https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/",
+        "point": "5",
+        "contest": "Weekly Contest 420",
+        "id": 2261
+    },
+    {
+        "name": "Minimum Division Operations to Make Array Non Decreasing",
+        "link": "https://leetcode.com/problems/minimum-division-operations-to-make-array-non-decreasing/",
+        "point": "5",
+        "contest": "Weekly Contest 420",
+        "id": 2260
+    },
+    {
+        "name": "Check if DFS Strings Are Palindromes",
+        "link": "https://leetcode.com/problems/check-if-dfs-strings-are-palindromes/",
+        "point": "7",
+        "contest": "Weekly Contest 420",
+        "id": 2259
+    },
+    {
         "name": "Find X-Sum of All K-Long Subarrays I",
         "link": "https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i/",
         "point": "3",
