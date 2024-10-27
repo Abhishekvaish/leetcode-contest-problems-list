@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find the Maximum Factor Score of Array",
+        "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/",
+        "point": "4",
+        "contest": "Weekly Contest 421",
+        "id": 2270
+    },
+    {
+        "name": "Total Characters in String After Transformations I",
+        "link": "https://leetcode.com/problems/total-characters-in-string-after-transformations-i/",
+        "point": "4",
+        "contest": "Weekly Contest 421",
+        "id": 2269
+    },
+    {
+        "name": "Find the Number of Subsequences With Equal GCD",
+        "link": "https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/",
+        "point": "6",
+        "contest": "Weekly Contest 421",
+        "id": 2268
+    },
+    {
+        "name": "Total Characters in String After Transformations II",
+        "link": "https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/",
+        "point": "8",
+        "contest": "Weekly Contest 421",
+        "id": 2267
+    },
+    {
+        "name": "Find the Original Typed String I",
+        "link": "https://leetcode.com/problems/find-the-original-typed-string-i/",
+        "point": "3",
+        "contest": "Biweekly Contest 142",
+        "id": 2266
+    },
+    {
+        "name": "Find Subtree Sizes After Changes",
+        "link": "https://leetcode.com/problems/find-subtree-sizes-after-changes/",
+        "point": "5",
+        "contest": "Biweekly Contest 142",
+        "id": 2265
+    },
+    {
+        "name": "Maximum Points Tourist Can Earn",
+        "link": "https://leetcode.com/problems/maximum-points-tourist-can-earn/",
+        "point": "5",
+        "contest": "Biweekly Contest 142",
+        "id": 2264
+    },
+    {
+        "name": "Find the Original Typed String II",
+        "link": "https://leetcode.com/problems/find-the-original-typed-string-ii/",
+        "point": "6",
+        "contest": "Biweekly Contest 142",
+        "id": 2263
+    },
+    {
         "name": "Find the Sequence of Strings Appeared on the Screen",
         "link": "https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/",
         "point": "4",

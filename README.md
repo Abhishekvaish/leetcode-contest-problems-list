@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 421|
+| [Find the Maximum Factor Score of Array](https://leetcode.com/problems/find-the-maximum-factor-score-of-array/)| 4|
+| [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/)| 4|
+| [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/)| 6|
+| [Total Characters in String After Transformations II](https://leetcode.com/problems/total-characters-in-string-after-transformations-ii/)| 8|
+|Biweekly Contest 142|
+| [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i/)| 3|
+| [Find Subtree Sizes After Changes](https://leetcode.com/problems/find-subtree-sizes-after-changes/)| 5|
+| [Maximum Points Tourist Can Earn](https://leetcode.com/problems/maximum-points-tourist-can-earn/)| 5|
+| [Find the Original Typed String II](https://leetcode.com/problems/find-the-original-typed-string-ii/)| 6|
 |Weekly Contest 420|
 | [Find the Sequence of Strings Appeared on the Screen](https://leetcode.com/problems/find-the-sequence-of-strings-appeared-on-the-screen/)| 4|
 | [Count Substrings With K-Frequency Characters I](https://leetcode.com/problems/count-substrings-with-k-frequency-characters-i/)| 5|
