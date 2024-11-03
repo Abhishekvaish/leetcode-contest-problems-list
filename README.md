@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 422|
+| [Check Balanced String](https://leetcode.com/problems/check-balanced-string/)| 3|
+| [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)| 4|
+| [Find Minimum Time to Reach Last Room II](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/)| 5|
+| [Count Number of Balanced Permutations](https://leetcode.com/problems/count-number-of-balanced-permutations/)| 6|
 |Weekly Contest 421|
 | [Find the Maximum Factor Score of Array](https://leetcode.com/problems/find-the-maximum-factor-score-of-array/)| 4|
 | [Total Characters in String After Transformations I](https://leetcode.com/problems/total-characters-in-string-after-transformations-i/)| 4|

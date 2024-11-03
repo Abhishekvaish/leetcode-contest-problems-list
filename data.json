@@ -1,5 +1,33 @@
 [
     {
+        "name": "Check Balanced String",
+        "link": "https://leetcode.com/problems/check-balanced-string/",
+        "point": "3",
+        "contest": "Weekly Contest 422",
+        "id": 2274
+    },
+    {
+        "name": "Find Minimum Time to Reach Last Room I",
+        "link": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/",
+        "point": "4",
+        "contest": "Weekly Contest 422",
+        "id": 2273
+    },
+    {
+        "name": "Find Minimum Time to Reach Last Room II",
+        "link": "https://leetcode.com/problems/find-minimum-time-to-reach-last-room-ii/",
+        "point": "5",
+        "contest": "Weekly Contest 422",
+        "id": 2272
+    },
+    {
+        "name": "Count Number of Balanced Permutations",
+        "link": "https://leetcode.com/problems/count-number-of-balanced-permutations/",
+        "point": "6",
+        "contest": "Weekly Contest 422",
+        "id": 2271
+    },
+    {
         "name": "Find the Maximum Factor Score of Array",
         "link": "https://leetcode.com/problems/find-the-maximum-factor-score-of-array/",
         "point": "4",
