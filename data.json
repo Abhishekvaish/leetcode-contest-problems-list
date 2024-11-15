@@ -1,5 +1,61 @@
 [
     {
+        "name": "Adjacent Increasing Subarrays Detection I",
+        "link": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/",
+        "point": "3",
+        "contest": "Weekly Contest 423",
+        "id": 2282
+    },
+    {
+        "name": "Adjacent Increasing Subarrays Detection II",
+        "link": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/",
+        "point": "5",
+        "contest": "Weekly Contest 423",
+        "id": 2281
+    },
+    {
+        "name": "Sum of Good Subsequences",
+        "link": "https://leetcode.com/problems/sum-of-good-subsequences/",
+        "point": "6",
+        "contest": "Weekly Contest 423",
+        "id": 2280
+    },
+    {
+        "name": "Count K-Reducible Numbers Less Than N",
+        "link": "https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/",
+        "point": "7",
+        "contest": "Weekly Contest 423",
+        "id": 2279
+    },
+    {
+        "name": "Smallest Divisible Digit Product I",
+        "link": "https://leetcode.com/problems/smallest-divisible-digit-product-i/",
+        "point": "3",
+        "contest": "Biweekly Contest 143",
+        "id": 2278
+    },
+    {
+        "name": "Maximum Frequency of an Element After Performing Operations I",
+        "link": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/",
+        "point": "4",
+        "contest": "Biweekly Contest 143",
+        "id": 2277
+    },
+    {
+        "name": "Maximum Frequency of an Element After Performing Operations II",
+        "link": "https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/",
+        "point": "6",
+        "contest": "Biweekly Contest 143",
+        "id": 2276
+    },
+    {
+        "name": "Smallest Divisible Digit Product II",
+        "link": "https://leetcode.com/problems/smallest-divisible-digit-product-ii/",
+        "point": "8",
+        "contest": "Biweekly Contest 143",
+        "id": 2275
+    },
+    {
         "name": "Check Balanced String",
         "link": "https://leetcode.com/problems/check-balanced-string/",
         "point": "3",

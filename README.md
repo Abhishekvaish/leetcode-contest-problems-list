@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 423|
+| [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)| 3|
+| [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)| 5|
+| [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences/)| 6|
+| [Count K-Reducible Numbers Less Than N](https://leetcode.com/problems/count-k-reducible-numbers-less-than-n/)| 7|
+|Biweekly Contest 143|
+| [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i/)| 3|
+| [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/)| 4|
+| [Maximum Frequency of an Element After Performing Operations II](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-ii/)| 6|
+| [Smallest Divisible Digit Product II](https://leetcode.com/problems/smallest-divisible-digit-product-ii/)| 8|
 |Weekly Contest 422|
 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string/)| 3|
 | [Find Minimum Time to Reach Last Room I](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/)| 4|
