@@ -1,5 +1,33 @@
 [
     {
+        "name": "Make Array Elements Equal to Zero",
+        "link": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
+        "point": "3",
+        "contest": "Weekly Contest 424",
+        "id": 2286
+    },
+    {
+        "name": "Zero Array Transformation I",
+        "link": "https://leetcode.com/problems/zero-array-transformation-i/",
+        "point": "4",
+        "contest": "Weekly Contest 424",
+        "id": 2285
+    },
+    {
+        "name": "Zero Array Transformation II",
+        "link": "https://leetcode.com/problems/zero-array-transformation-ii/",
+        "point": "5",
+        "contest": "Weekly Contest 424",
+        "id": 2284
+    },
+    {
+        "name": "Minimize the Maximum Adjacent Element Difference",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/",
+        "point": "8",
+        "contest": "Weekly Contest 424",
+        "id": 2283
+    },
+    {
         "name": "Adjacent Increasing Subarrays Detection I",
         "link": "https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/",
         "point": "3",

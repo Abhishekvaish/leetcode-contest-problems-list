@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 424|
+| [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/)| 3|
+| [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)| 4|
+| [Zero Array Transformation II](https://leetcode.com/problems/zero-array-transformation-ii/)| 5|
+| [Minimize the Maximum Adjacent Element Difference](https://leetcode.com/problems/minimize-the-maximum-adjacent-element-difference/)| 8|
 |Weekly Contest 423|
 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i/)| 3|
 | [Adjacent Increasing Subarrays Detection II](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-ii/)| 5|
