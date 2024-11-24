@@ -1,5 +1,61 @@
 [
     {
+        "name": "Minimum Positive Sum Subarray",
+        "link": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
+        "point": "3",
+        "contest": "Weekly Contest 425",
+        "id": 2294
+    },
+    {
+        "name": "Rearrange K Substrings to Form Target String",
+        "link": "https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/",
+        "point": "4",
+        "contest": "Weekly Contest 425",
+        "id": 2293
+    },
+    {
+        "name": "Minimum Array Sum",
+        "link": "https://leetcode.com/problems/minimum-array-sum/",
+        "point": "5",
+        "contest": "Weekly Contest 425",
+        "id": 2292
+    },
+    {
+        "name": "Maximize Sum of Weights after Edge Removals",
+        "link": "https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/",
+        "point": "6",
+        "contest": "Weekly Contest 425",
+        "id": 2291
+    },
+    {
+        "name": "Stone Removal Game",
+        "link": "https://leetcode.com/problems/stone-removal-game/",
+        "point": "3",
+        "contest": "Biweekly Contest 144",
+        "id": 2290
+    },
+    {
+        "name": "Shift Distance Between Two Strings",
+        "link": "https://leetcode.com/problems/shift-distance-between-two-strings/",
+        "point": "5",
+        "contest": "Biweekly Contest 144",
+        "id": 2289
+    },
+    {
+        "name": "Zero Array Transformation III",
+        "link": "https://leetcode.com/problems/zero-array-transformation-iii/",
+        "point": "5",
+        "contest": "Biweekly Contest 144",
+        "id": 2288
+    },
+    {
+        "name": "Find the Maximum Number of Fruits Collected",
+        "link": "https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/",
+        "point": "6",
+        "contest": "Biweekly Contest 144",
+        "id": 2287
+    },
+    {
         "name": "Make Array Elements Equal to Zero",
         "link": "https://leetcode.com/problems/make-array-elements-equal-to-zero/",
         "point": "3",

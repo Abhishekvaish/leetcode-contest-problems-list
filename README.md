@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 425|
+| [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/)| 3|
+| [Rearrange K Substrings to Form Target String](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/)| 4|
+| [Minimum Array Sum](https://leetcode.com/problems/minimum-array-sum/)| 5|
+| [Maximize Sum of Weights after Edge Removals](https://leetcode.com/problems/maximize-sum-of-weights-after-edge-removals/)| 6|
+|Biweekly Contest 144|
+| [Stone Removal Game](https://leetcode.com/problems/stone-removal-game/)| 3|
+| [Shift Distance Between Two Strings](https://leetcode.com/problems/shift-distance-between-two-strings/)| 5|
+| [Zero Array Transformation III](https://leetcode.com/problems/zero-array-transformation-iii/)| 5|
+| [Find the Maximum Number of Fruits Collected](https://leetcode.com/problems/find-the-maximum-number-of-fruits-collected/)| 6|
 |Weekly Contest 424|
 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/)| 3|
 | [Zero Array Transformation I](https://leetcode.com/problems/zero-array-transformation-i/)| 4|
