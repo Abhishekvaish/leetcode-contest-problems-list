@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 426|
+| [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/)| 3|
+| [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)| 4|
+| [Maximize the Number of Target Nodes After Connecting Trees I](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/)| 5|
+| [Maximize the Number of Target Nodes After Connecting Trees II](https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/)| 6|
 |Weekly Contest 425|
 | [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/)| 3|
 | [Rearrange K Substrings to Form Target String](https://leetcode.com/problems/rearrange-k-substrings-to-form-target-string/)| 4|

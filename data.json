@@ -1,5 +1,33 @@
 [
     {
+        "name": "Smallest Number With All Set Bits",
+        "link": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
+        "point": "3",
+        "contest": "Weekly Contest 426",
+        "id": 2298
+    },
+    {
+        "name": "Identify the Largest Outlier in an Array",
+        "link": "https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/",
+        "point": "4",
+        "contest": "Weekly Contest 426",
+        "id": 2297
+    },
+    {
+        "name": "Maximize the Number of Target Nodes After Connecting Trees I",
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-i/",
+        "point": "5",
+        "contest": "Weekly Contest 426",
+        "id": 2296
+    },
+    {
+        "name": "Maximize the Number of Target Nodes After Connecting Trees II",
+        "link": "https://leetcode.com/problems/maximize-the-number-of-target-nodes-after-connecting-trees-ii/",
+        "point": "6",
+        "contest": "Weekly Contest 426",
+        "id": 2295
+    },
+    {
         "name": "Minimum Positive Sum Subarray",
         "link": "https://leetcode.com/problems/minimum-positive-sum-subarray/",
         "point": "3",
