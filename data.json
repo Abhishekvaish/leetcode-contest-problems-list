@@ -1,5 +1,61 @@
 [
     {
+        "name": "Transformed Array",
+        "link": "https://leetcode.com/problems/transformed-array/",
+        "point": "3",
+        "contest": "Weekly Contest 427",
+        "id": 2306
+    },
+    {
+        "name": "Maximum Area Rectangle With Point Constraints I",
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/",
+        "point": "4",
+        "contest": "Weekly Contest 427",
+        "id": 2305
+    },
+    {
+        "name": "Maximum Subarray Sum With Length Divisible by K",
+        "link": "https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/",
+        "point": "5",
+        "contest": "Weekly Contest 427",
+        "id": 2304
+    },
+    {
+        "name": "Maximum Area Rectangle With Point Constraints II",
+        "link": "https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/",
+        "point": "8",
+        "contest": "Weekly Contest 427",
+        "id": 2303
+    },
+    {
+        "name": "Minimum Operations to Make Array Values Equal to K",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/",
+        "point": "3",
+        "contest": "Biweekly Contest 145",
+        "id": 2302
+    },
+    {
+        "name": "Minimum Time to Break Locks I",
+        "link": "https://leetcode.com/problems/minimum-time-to-break-locks-i/",
+        "point": "5",
+        "contest": "Biweekly Contest 145",
+        "id": 2301
+    },
+    {
+        "name": "Digit Operations to Make Two Integers Equal",
+        "link": "https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/",
+        "point": "5",
+        "contest": "Biweekly Contest 145",
+        "id": 2300
+    },
+    {
+        "name": "Count Connected Components in LCM Graph",
+        "link": "https://leetcode.com/problems/count-connected-components-in-lcm-graph/",
+        "point": "6",
+        "contest": "Biweekly Contest 145",
+        "id": 2299
+    },
+    {
         "name": "Smallest Number With All Set Bits",
         "link": "https://leetcode.com/problems/smallest-number-with-all-set-bits/",
         "point": "3",

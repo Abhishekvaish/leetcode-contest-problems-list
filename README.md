@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 427|
+| [Transformed Array](https://leetcode.com/problems/transformed-array/)| 3|
+| [Maximum Area Rectangle With Point Constraints I](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/)| 4|
+| [Maximum Subarray Sum With Length Divisible by K](https://leetcode.com/problems/maximum-subarray-sum-with-length-divisible-by-k/)| 5|
+| [Maximum Area Rectangle With Point Constraints II](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-ii/)| 8|
+|Biweekly Contest 145|
+| [Minimum Operations to Make Array Values Equal to K](https://leetcode.com/problems/minimum-operations-to-make-array-values-equal-to-k/)| 3|
+| [Minimum Time to Break Locks I](https://leetcode.com/problems/minimum-time-to-break-locks-i/)| 5|
+| [Digit Operations to Make Two Integers Equal](https://leetcode.com/problems/digit-operations-to-make-two-integers-equal/)| 5|
+| [Count Connected Components in LCM Graph](https://leetcode.com/problems/count-connected-components-in-lcm-graph/)| 6|
 |Weekly Contest 426|
 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits/)| 3|
 | [Identify the Largest Outlier in an Array](https://leetcode.com/problems/identify-the-largest-outlier-in-an-array/)| 4|
