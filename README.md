@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 428|
+| [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time/)| 3|
+| [Maximize Amount After Two Days of Conversions](https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/)| 4|
+| [Count Beautiful Splits in an Array](https://leetcode.com/problems/count-beautiful-splits-in-an-array/)| 5|
+| [Minimum Operations to Make Character Frequencies Equal](https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/)| 8|
 |Weekly Contest 427|
 | [Transformed Array](https://leetcode.com/problems/transformed-array/)| 3|
 | [Maximum Area Rectangle With Point Constraints I](https://leetcode.com/problems/maximum-area-rectangle-with-point-constraints-i/)| 4|

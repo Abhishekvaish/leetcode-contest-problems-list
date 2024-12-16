@@ -1,5 +1,33 @@
 [
     {
+        "name": "Button with Longest Push Time",
+        "link": "https://leetcode.com/problems/button-with-longest-push-time/",
+        "point": "3",
+        "contest": "Weekly Contest 428",
+        "id": 2310
+    },
+    {
+        "name": "Maximize Amount After Two Days of Conversions",
+        "link": "https://leetcode.com/problems/maximize-amount-after-two-days-of-conversions/",
+        "point": "4",
+        "contest": "Weekly Contest 428",
+        "id": 2309
+    },
+    {
+        "name": "Count Beautiful Splits in an Array",
+        "link": "https://leetcode.com/problems/count-beautiful-splits-in-an-array/",
+        "point": "5",
+        "contest": "Weekly Contest 428",
+        "id": 2308
+    },
+    {
+        "name": "Minimum Operations to Make Character Frequencies Equal",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-character-frequencies-equal/",
+        "point": "8",
+        "contest": "Weekly Contest 428",
+        "id": 2307
+    },
+    {
         "name": "Transformed Array",
         "link": "https://leetcode.com/problems/transformed-array/",
         "point": "3",
