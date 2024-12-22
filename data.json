@@ -1,5 +1,61 @@
 [
     {
+        "name": "Minimum Number of Operations to Make Elements in Array Distinct",
+        "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
+        "point": "3",
+        "contest": "Weekly Contest 429",
+        "id": 2318
+    },
+    {
+        "name": "Maximum Number of Distinct Elements After Operations",
+        "link": "https://leetcode.com/problems/maximum-number-of-distinct-elements-after-operations/",
+        "point": "5",
+        "contest": "Weekly Contest 429",
+        "id": 2317
+    },
+    {
+        "name": "Smallest Substring With Identical Characters I",
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-i/",
+        "point": "6",
+        "contest": "Weekly Contest 429",
+        "id": 2316
+    },
+    {
+        "name": "Smallest Substring With Identical Characters II",
+        "link": "https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 429",
+        "id": 2315
+    },
+    {
+        "name": "Count Subarrays of Length Three With a Condition",
+        "link": "https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition/",
+        "point": "3",
+        "contest": "Biweekly Contest 146",
+        "id": 2314
+    },
+    {
+        "name": "Count Paths With the Given XOR Value",
+        "link": "https://leetcode.com/problems/count-paths-with-the-given-xor-value/",
+        "point": "5",
+        "contest": "Biweekly Contest 146",
+        "id": 2313
+    },
+    {
+        "name": "Check if Grid can be Cut into Sections",
+        "link": "https://leetcode.com/problems/check-if-grid-can-be-cut-into-sections/",
+        "point": "5",
+        "contest": "Biweekly Contest 146",
+        "id": 2312
+    },
+    {
+        "name": "Subsequences with a Unique Middle Mode I",
+        "link": "https://leetcode.com/problems/subsequences-with-a-unique-middle-mode-i/",
+        "point": "7",
+        "contest": "Biweekly Contest 146",
+        "id": 2311
+    },
+    {
         "name": "Button with Longest Push Time",
         "link": "https://leetcode.com/problems/button-with-longest-push-time/",
         "point": "3",
