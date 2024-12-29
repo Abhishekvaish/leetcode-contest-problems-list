@@ -1,5 +1,33 @@
 [
     {
+        "name": "Minimum Operations to Make Columns Strictly Increasing",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/",
+        "point": "3",
+        "contest": "Weekly Contest 430",
+        "id": 2322
+    },
+    {
+        "name": "Find the Lexicographically Largest String From the Box I",
+        "link": "https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/",
+        "point": "4",
+        "contest": "Weekly Contest 430",
+        "id": 2321
+    },
+    {
+        "name": "Count Special Subsequences",
+        "link": "https://leetcode.com/problems/count-special-subsequences/",
+        "point": "5",
+        "contest": "Weekly Contest 430",
+        "id": 2320
+    },
+    {
+        "name": "Count the Number of Arrays with K Matching Adjacent Elements",
+        "link": "https://leetcode.com/problems/count-the-number-of-arrays-with-k-matching-adjacent-elements/",
+        "point": "6",
+        "contest": "Weekly Contest 430",
+        "id": 2319
+    },
+    {
         "name": "Minimum Number of Operations to Make Elements in Array Distinct",
         "link": "https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct/",
         "point": "3",
