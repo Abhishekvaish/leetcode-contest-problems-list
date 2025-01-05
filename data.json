@@ -1,5 +1,61 @@
 [
     {
+        "name": "Maximum Subarray With Equal Products",
+        "link": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
+        "point": "3",
+        "contest": "Weekly Contest 431",
+        "id": 2330
+    },
+    {
+        "name": "Find Mirror Score of a String",
+        "link": "https://leetcode.com/problems/find-mirror-score-of-a-string/",
+        "point": "4",
+        "contest": "Weekly Contest 431",
+        "id": 2329
+    },
+    {
+        "name": "Maximum Coins From K Consecutive Bags",
+        "link": "https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/",
+        "point": "5",
+        "contest": "Weekly Contest 431",
+        "id": 2328
+    },
+    {
+        "name": "Maximum Score of Non-overlapping Intervals",
+        "link": "https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/",
+        "point": "6",
+        "contest": "Weekly Contest 431",
+        "id": 2327
+    },
+    {
+        "name": "Substring Matching Pattern",
+        "link": "https://leetcode.com/problems/substring-matching-pattern/",
+        "point": "3",
+        "contest": "Biweekly Contest 147",
+        "id": 2326
+    },
+    {
+        "name": "Design Task Manager",
+        "link": "https://leetcode.com/problems/design-task-manager/",
+        "point": "5",
+        "contest": "Biweekly Contest 147",
+        "id": 2325
+    },
+    {
+        "name": "Longest Subsequence With Decreasing Adjacent Difference",
+        "link": "https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/",
+        "point": "5",
+        "contest": "Biweekly Contest 147",
+        "id": 2324
+    },
+    {
+        "name": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+        "link": "https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/",
+        "point": "6",
+        "contest": "Biweekly Contest 147",
+        "id": 2323
+    },
+    {
         "name": "Minimum Operations to Make Columns Strictly Increasing",
         "link": "https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/",
         "point": "3",

@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 431|
+| [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-subarray-with-equal-products/)| 3|
+| [Find Mirror Score of a String](https://leetcode.com/problems/find-mirror-score-of-a-string/)| 4|
+| [Maximum Coins From K Consecutive Bags](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/)| 5|
+| [Maximum Score of Non-overlapping Intervals](https://leetcode.com/problems/maximum-score-of-non-overlapping-intervals/)| 6|
+|Biweekly Contest 147|
+| [Substring Matching Pattern](https://leetcode.com/problems/substring-matching-pattern/)| 3|
+| [Design Task Manager](https://leetcode.com/problems/design-task-manager/)| 5|
+| [Longest Subsequence With Decreasing Adjacent Difference](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference/)| 5|
+| [Maximize Subarray Sum After Removing All Occurrences of One Element](https://leetcode.com/problems/maximize-subarray-sum-after-removing-all-occurrences-of-one-element/)| 6|
 |Weekly Contest 430|
 | [Minimum Operations to Make Columns Strictly Increasing](https://leetcode.com/problems/minimum-operations-to-make-columns-strictly-increasing/)| 3|
 | [Find the Lexicographically Largest String From the Box I](https://leetcode.com/problems/find-the-lexicographically-largest-string-from-the-box-i/)| 4|
