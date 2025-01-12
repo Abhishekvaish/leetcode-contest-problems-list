@@ -1,5 +1,33 @@
 [
     {
+        "name": "Zigzag Grid Traversal With Skip",
+        "link": "https://leetcode.com/problems/zigzag-grid-traversal-with-skip/",
+        "point": "3",
+        "contest": "Weekly Contest 432",
+        "id": 2334
+    },
+    {
+        "name": "Maximum Amount of Money Robot Can Earn",
+        "link": "https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/",
+        "point": "5",
+        "contest": "Weekly Contest 432",
+        "id": 2333
+    },
+    {
+        "name": "Minimize the Maximum Edge Weight of Graph",
+        "link": "https://leetcode.com/problems/minimize-the-maximum-edge-weight-of-graph/",
+        "point": "5",
+        "contest": "Weekly Contest 432",
+        "id": 2332
+    },
+    {
+        "name": "Count Non-Decreasing Subarrays After K Operations",
+        "link": "https://leetcode.com/problems/count-non-decreasing-subarrays-after-k-operations/",
+        "point": "7",
+        "contest": "Weekly Contest 432",
+        "id": 2331
+    },
+    {
         "name": "Maximum Subarray With Equal Products",
         "link": "https://leetcode.com/problems/maximum-subarray-with-equal-products/",
         "point": "3",
