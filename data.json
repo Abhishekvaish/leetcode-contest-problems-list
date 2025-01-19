@@ -1,5 +1,61 @@
 [
     {
+        "name": "Sum of Variable Length Subarrays",
+        "link": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
+        "point": "3",
+        "contest": "Weekly Contest 433",
+        "id": 2342
+    },
+    {
+        "name": "Maximum and Minimum Sums of at Most Size K Subsequences",
+        "link": "https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/",
+        "point": "5",
+        "contest": "Weekly Contest 433",
+        "id": 2341
+    },
+    {
+        "name": "Paint House IV",
+        "link": "https://leetcode.com/problems/paint-house-iv/",
+        "point": "5",
+        "contest": "Weekly Contest 433",
+        "id": 2340
+    },
+    {
+        "name": "Maximum and Minimum Sums of at Most Size K Subarrays",
+        "link": "https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/",
+        "point": "7",
+        "contest": "Weekly Contest 433",
+        "id": 2339
+    },
+    {
+        "name": "Maximum Difference Between Adjacent Elements in a Circular Array",
+        "link": "https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/",
+        "point": "3",
+        "contest": "Biweekly Contest 148",
+        "id": 2338
+    },
+    {
+        "name": "Minimum Cost to Make Arrays Identical",
+        "link": "https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/",
+        "point": "4",
+        "contest": "Biweekly Contest 148",
+        "id": 2337
+    },
+    {
+        "name": "Longest Special Path",
+        "link": "https://leetcode.com/problems/longest-special-path/",
+        "point": "6",
+        "contest": "Biweekly Contest 148",
+        "id": 2336
+    },
+    {
+        "name": "Manhattan Distances of All Arrangements of Pieces",
+        "link": "https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/",
+        "point": "8",
+        "contest": "Biweekly Contest 148",
+        "id": 2335
+    },
+    {
         "name": "Zigzag Grid Traversal With Skip",
         "link": "https://leetcode.com/problems/zigzag-grid-traversal-with-skip/",
         "point": "3",

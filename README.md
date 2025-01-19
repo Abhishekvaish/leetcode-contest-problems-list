@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 433|
+| [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/)| 3|
+| [Maximum and Minimum Sums of at Most Size K Subsequences](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/)| 5|
+| [Paint House IV](https://leetcode.com/problems/paint-house-iv/)| 5|
+| [Maximum and Minimum Sums of at Most Size K Subarrays](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subarrays/)| 7|
+|Biweekly Contest 148|
+| [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array/)| 3|
+| [Minimum Cost to Make Arrays Identical](https://leetcode.com/problems/minimum-cost-to-make-arrays-identical/)| 4|
+| [Longest Special Path](https://leetcode.com/problems/longest-special-path/)| 6|
+| [Manhattan Distances of All Arrangements of Pieces](https://leetcode.com/problems/manhattan-distances-of-all-arrangements-of-pieces/)| 8|
 |Weekly Contest 432|
 | [Zigzag Grid Traversal With Skip](https://leetcode.com/problems/zigzag-grid-traversal-with-skip/)| 3|
 | [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn/)| 5|
