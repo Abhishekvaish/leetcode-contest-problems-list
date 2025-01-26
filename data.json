@@ -1,5 +1,33 @@
 [
     {
+        "name": "Count Partitions with Even Sum Difference",
+        "link": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
+        "point": "3",
+        "contest": "Weekly Contest 434",
+        "id": 2346
+    },
+    {
+        "name": "Count Mentions Per User",
+        "link": "https://leetcode.com/problems/count-mentions-per-user/",
+        "point": "4",
+        "contest": "Weekly Contest 434",
+        "id": 2345
+    },
+    {
+        "name": "Maximum Frequency After Subarray Operation",
+        "link": "https://leetcode.com/problems/maximum-frequency-after-subarray-operation/",
+        "point": "5",
+        "contest": "Weekly Contest 434",
+        "id": 2344
+    },
+    {
+        "name": "Frequencies of Shortest Supersequences",
+        "link": "https://leetcode.com/problems/frequencies-of-shortest-supersequences/",
+        "point": "8",
+        "contest": "Weekly Contest 434",
+        "id": 2343
+    },
+    {
         "name": "Sum of Variable Length Subarrays",
         "link": "https://leetcode.com/problems/sum-of-variable-length-subarrays/",
         "point": "3",

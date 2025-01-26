@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 434|
+| [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference/)| 3|
+| [Count Mentions Per User](https://leetcode.com/problems/count-mentions-per-user/)| 4|
+| [Maximum Frequency After Subarray Operation](https://leetcode.com/problems/maximum-frequency-after-subarray-operation/)| 5|
+| [Frequencies of Shortest Supersequences](https://leetcode.com/problems/frequencies-of-shortest-supersequences/)| 8|
 |Weekly Contest 433|
 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays/)| 3|
 | [Maximum and Minimum Sums of at Most Size K Subsequences](https://leetcode.com/problems/maximum-and-minimum-sums-of-at-most-size-k-subsequences/)| 5|
