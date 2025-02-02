@@ -1,5 +1,61 @@
 [
     {
+        "name": "Maximum Difference Between Even and Odd Frequency I",
+        "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
+        "point": "3",
+        "contest": "Weekly Contest 435",
+        "id": 2354
+    },
+    {
+        "name": "Maximum Manhattan Distance After K Changes",
+        "link": "https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/",
+        "point": "4",
+        "contest": "Weekly Contest 435",
+        "id": 2353
+    },
+    {
+        "name": "Minimum Increments for Target Multiples in an Array",
+        "link": "https://leetcode.com/problems/minimum-increments-for-target-multiples-in-an-array/",
+        "point": "6",
+        "contest": "Weekly Contest 435",
+        "id": 2352
+    },
+    {
+        "name": "Maximum Difference Between Even and Odd Frequency II",
+        "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-ii/",
+        "point": "7",
+        "contest": "Weekly Contest 435",
+        "id": 2351
+    },
+    {
+        "name": "Find Valid Pair of Adjacent Digits in String",
+        "link": "https://leetcode.com/problems/find-valid-pair-of-adjacent-digits-in-string/",
+        "point": "3",
+        "contest": "Biweekly Contest 149",
+        "id": 2350
+    },
+    {
+        "name": "Reschedule Meetings for Maximum Free Time I",
+        "link": "https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-i/",
+        "point": "5",
+        "contest": "Biweekly Contest 149",
+        "id": 2349
+    },
+    {
+        "name": "Reschedule Meetings for Maximum Free Time II",
+        "link": "https://leetcode.com/problems/reschedule-meetings-for-maximum-free-time-ii/",
+        "point": "5",
+        "contest": "Biweekly Contest 149",
+        "id": 2348
+    },
+    {
+        "name": "Minimum Cost Good Caption",
+        "link": "https://leetcode.com/problems/minimum-cost-good-caption/",
+        "point": "7",
+        "contest": "Biweekly Contest 149",
+        "id": 2347
+    },
+    {
         "name": "Count Partitions with Even Sum Difference",
         "link": "https://leetcode.com/problems/count-partitions-with-even-sum-difference/",
         "point": "3",
