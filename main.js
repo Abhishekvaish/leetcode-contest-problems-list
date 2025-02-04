@@ -18,6 +18,7 @@ const state = {
 async function main(){
     state.data = await (await fetch('./data.json')).json()
     state.solved = new Set(JSON.parse(localStorage.getItem('solved')) ?? [])
+    state.pageNo = localStorage.getItem('pageNo') ?? 1,
     render(state)
 }
 main()
@@ -42,10 +43,12 @@ document.querySelector('#points-select').onchange = e => {
 
 pageNoDiv.querySelector('.prev-page').onclick = _ => {
     state.pageNo -= 1
+    localStorage.setItem('pageNo', state.pageNo)
     render(state)
 }
 pageNoDiv.querySelector('.next-page').onclick = _ => {
     state.pageNo += 1
+    localStorage.setItem('pageNo', state.pageNo)
     render(state)
 
 }
