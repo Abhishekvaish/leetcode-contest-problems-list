@@ -4,6 +4,26 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 438|
+| [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/)| 3|
+| [Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/)| 4|
+| [Check If Digits Are Equal in String After Operations II](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/)| 6|
+| [Maximize the Distance Between Points on a Square](https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/)| 8|
+|Weekly Contest 437|
+| [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k/)| 3|
+| [Eat Pizzas!](https://leetcode.com/problems/eat-pizzas/)| 5|
+| [Select K Disjoint Special Substrings](https://leetcode.com/problems/select-k-disjoint-special-substrings/)| 5|
+| [Length of Longest V-Shaped Diagonal Segment](https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/)| 6|
+|Biweekly Contest 150|
+| [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers/)| 3|
+| [Separate Squares I](https://leetcode.com/problems/separate-squares-i/)| 5|
+| [Separate Squares II](https://leetcode.com/problems/separate-squares-ii/)| 6|
+| [Shortest Matching Substring](https://leetcode.com/problems/shortest-matching-substring/)| 7|
+|Weekly Contest 436|
+| [Sort Matrix by Diagonals](https://leetcode.com/problems/sort-matrix-by-diagonals/)| 3|
+| [Assign Elements to Groups with Constraints](https://leetcode.com/problems/assign-elements-to-groups-with-constraints/)| 4|
+| [Count Substrings Divisible By Last Digit](https://leetcode.com/problems/count-substrings-divisible-by-last-digit/)| 6|
+| [Maximize the Minimum Game Score](https://leetcode.com/problems/maximize-the-minimum-game-score/)| 7|
 |Weekly Contest 435|
 | [Maximum Difference Between Even and Odd Frequency I](https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/)| 3|
 | [Maximum Manhattan Distance After K Changes](https://leetcode.com/problems/maximum-manhattan-distance-after-k-changes/)| 4|

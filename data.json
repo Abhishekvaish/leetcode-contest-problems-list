@@ -1,5 +1,117 @@
 [
     {
+        "name": "Check If Digits Are Equal in String After Operations I",
+        "link": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
+        "point": "3",
+        "contest": "Weekly Contest 438",
+        "id": 2370
+    },
+    {
+        "name": "Maximum Sum With at Most K Elements",
+        "link": "https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/",
+        "point": "4",
+        "contest": "Weekly Contest 438",
+        "id": 2369
+    },
+    {
+        "name": "Check If Digits Are Equal in String After Operations II",
+        "link": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-ii/",
+        "point": "6",
+        "contest": "Weekly Contest 438",
+        "id": 2368
+    },
+    {
+        "name": "Maximize the Distance Between Points on a Square",
+        "link": "https://leetcode.com/problems/maximize-the-distance-between-points-on-a-square/",
+        "point": "8",
+        "contest": "Weekly Contest 438",
+        "id": 2367
+    },
+    {
+        "name": "Find Special Substring of Length K",
+        "link": "https://leetcode.com/problems/find-special-substring-of-length-k/",
+        "point": "3",
+        "contest": "Weekly Contest 437",
+        "id": 2366
+    },
+    {
+        "name": "Eat Pizzas!",
+        "link": "https://leetcode.com/problems/eat-pizzas/",
+        "point": "5",
+        "contest": "Weekly Contest 437",
+        "id": 2365
+    },
+    {
+        "name": "Select K Disjoint Special Substrings",
+        "link": "https://leetcode.com/problems/select-k-disjoint-special-substrings/",
+        "point": "5",
+        "contest": "Weekly Contest 437",
+        "id": 2364
+    },
+    {
+        "name": "Length of Longest V-Shaped Diagonal Segment",
+        "link": "https://leetcode.com/problems/length-of-longest-v-shaped-diagonal-segment/",
+        "point": "6",
+        "contest": "Weekly Contest 437",
+        "id": 2363
+    },
+    {
+        "name": "Sum of Good Numbers",
+        "link": "https://leetcode.com/problems/sum-of-good-numbers/",
+        "point": "3",
+        "contest": "Biweekly Contest 150",
+        "id": 2362
+    },
+    {
+        "name": "Separate Squares I",
+        "link": "https://leetcode.com/problems/separate-squares-i/",
+        "point": "5",
+        "contest": "Biweekly Contest 150",
+        "id": 2361
+    },
+    {
+        "name": "Separate Squares II",
+        "link": "https://leetcode.com/problems/separate-squares-ii/",
+        "point": "6",
+        "contest": "Biweekly Contest 150",
+        "id": 2360
+    },
+    {
+        "name": "Shortest Matching Substring",
+        "link": "https://leetcode.com/problems/shortest-matching-substring/",
+        "point": "7",
+        "contest": "Biweekly Contest 150",
+        "id": 2359
+    },
+    {
+        "name": "Sort Matrix by Diagonals",
+        "link": "https://leetcode.com/problems/sort-matrix-by-diagonals/",
+        "point": "3",
+        "contest": "Weekly Contest 436",
+        "id": 2358
+    },
+    {
+        "name": "Assign Elements to Groups with Constraints",
+        "link": "https://leetcode.com/problems/assign-elements-to-groups-with-constraints/",
+        "point": "4",
+        "contest": "Weekly Contest 436",
+        "id": 2357
+    },
+    {
+        "name": "Count Substrings Divisible By Last Digit",
+        "link": "https://leetcode.com/problems/count-substrings-divisible-by-last-digit/",
+        "point": "6",
+        "contest": "Weekly Contest 436",
+        "id": 2356
+    },
+    {
+        "name": "Maximize the Minimum Game Score",
+        "link": "https://leetcode.com/problems/maximize-the-minimum-game-score/",
+        "point": "7",
+        "contest": "Weekly Contest 436",
+        "id": 2355
+    },
+    {
         "name": "Maximum Difference Between Even and Odd Frequency I",
         "link": "https://leetcode.com/problems/maximum-difference-between-even-and-odd-frequency-i/",
         "point": "3",
