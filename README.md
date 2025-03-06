@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 439|
+| [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)| 3|
+| [Longest Palindromic Subsequence After at Most K Operations](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/)| 4|
+| [Sum of K Subarrays With Length at Least M](https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/)| 5|
+| [Lexicographically Smallest Generated String](https://leetcode.com/problems/lexicographically-smallest-generated-string/)| 7|
+|Biweekly Contest 151|
+| [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity/)| 3|
+| [Find the Number of Copy Arrays](https://leetcode.com/problems/find-the-number-of-copy-arrays/)| 4|
+| [Find Minimum Cost to Remove Array Elements](https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/)| 5|
+| [Permutations IV](https://leetcode.com/problems/permutations-iv/)| 6|
 |Weekly Contest 438|
 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/)| 3|
 | [Maximum Sum With at Most K Elements](https://leetcode.com/problems/maximum-sum-with-at-most-k-elements/)| 4|

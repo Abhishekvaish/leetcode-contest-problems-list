@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find the Largest Almost Missing Integer",
+        "link": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
+        "point": "3",
+        "contest": "Weekly Contest 439",
+        "id": 2378
+    },
+    {
+        "name": "Longest Palindromic Subsequence After at Most K Operations",
+        "link": "https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/",
+        "point": "4",
+        "contest": "Weekly Contest 439",
+        "id": 2377
+    },
+    {
+        "name": "Sum of K Subarrays With Length at Least M",
+        "link": "https://leetcode.com/problems/sum-of-k-subarrays-with-length-at-least-m/",
+        "point": "5",
+        "contest": "Weekly Contest 439",
+        "id": 2376
+    },
+    {
+        "name": "Lexicographically Smallest Generated String",
+        "link": "https://leetcode.com/problems/lexicographically-smallest-generated-string/",
+        "point": "7",
+        "contest": "Weekly Contest 439",
+        "id": 2375
+    },
+    {
+        "name": "Transform Array by Parity",
+        "link": "https://leetcode.com/problems/transform-array-by-parity/",
+        "point": "3",
+        "contest": "Biweekly Contest 151",
+        "id": 2374
+    },
+    {
+        "name": "Find the Number of Copy Arrays",
+        "link": "https://leetcode.com/problems/find-the-number-of-copy-arrays/",
+        "point": "4",
+        "contest": "Biweekly Contest 151",
+        "id": 2373
+    },
+    {
+        "name": "Find Minimum Cost to Remove Array Elements",
+        "link": "https://leetcode.com/problems/find-minimum-cost-to-remove-array-elements/",
+        "point": "5",
+        "contest": "Biweekly Contest 151",
+        "id": 2372
+    },
+    {
+        "name": "Permutations IV",
+        "link": "https://leetcode.com/problems/permutations-iv/",
+        "point": "6",
+        "contest": "Biweekly Contest 151",
+        "id": 2371
+    },
+    {
         "name": "Check If Digits Are Equal in String After Operations I",
         "link": "https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i/",
         "point": "3",
