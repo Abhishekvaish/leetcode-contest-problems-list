@@ -4,6 +4,11 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 440|
+| [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/)| 3|
+| [Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/)| 4|
+| [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii/)| 5|
+| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/)| 6|
 |Weekly Contest 439|
 | [Find the Largest Almost Missing Integer](https://leetcode.com/problems/find-the-largest-almost-missing-integer/)| 3|
 | [Longest Palindromic Subsequence After at Most K Operations](https://leetcode.com/problems/longest-palindromic-subsequence-after-at-most-k-operations/)| 4|

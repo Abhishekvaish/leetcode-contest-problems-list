@@ -1,5 +1,33 @@
 [
     {
+        "name": "Fruits Into Baskets II",
+        "link": "https://leetcode.com/problems/fruits-into-baskets-ii/",
+        "point": "3",
+        "contest": "Weekly Contest 440",
+        "id": 2382
+    },
+    {
+        "name": "Choose K Elements With Maximum Sum",
+        "link": "https://leetcode.com/problems/choose-k-elements-with-maximum-sum/",
+        "point": "4",
+        "contest": "Weekly Contest 440",
+        "id": 2381
+    },
+    {
+        "name": "Fruits Into Baskets III",
+        "link": "https://leetcode.com/problems/fruits-into-baskets-iii/",
+        "point": "5",
+        "contest": "Weekly Contest 440",
+        "id": 2380
+    },
+    {
+        "name": "Maximize Subarrays After Removing One Conflicting Pair",
+        "link": "https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair/",
+        "point": "6",
+        "contest": "Weekly Contest 440",
+        "id": 2379
+    },
+    {
         "name": "Find the Largest Almost Missing Integer",
         "link": "https://leetcode.com/problems/find-the-largest-almost-missing-integer/",
         "point": "3",
