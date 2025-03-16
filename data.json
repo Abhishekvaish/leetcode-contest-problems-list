@@ -1,5 +1,61 @@
 [
     {
+        "name": "Maximum Unique Subarray Sum After Deletion",
+        "link": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/",
+        "point": "3",
+        "contest": "Weekly Contest 441",
+        "id": 2390
+    },
+    {
+        "name": "Closest Equal Element Queries",
+        "link": "https://leetcode.com/problems/closest-equal-element-queries/",
+        "point": "4",
+        "contest": "Weekly Contest 441",
+        "id": 2389
+    },
+    {
+        "name": "Zero Array Transformation IV",
+        "link": "https://leetcode.com/problems/zero-array-transformation-iv/",
+        "point": "5",
+        "contest": "Weekly Contest 441",
+        "id": 2388
+    },
+    {
+        "name": "Count Beautiful Numbers",
+        "link": "https://leetcode.com/problems/count-beautiful-numbers/",
+        "point": "6",
+        "contest": "Weekly Contest 441",
+        "id": 2387
+    },
+    {
+        "name": "Unique 3-Digit Even Numbers",
+        "link": "https://leetcode.com/problems/unique-3-digit-even-numbers/",
+        "point": "3",
+        "contest": "Biweekly Contest 152",
+        "id": 2386
+    },
+    {
+        "name": "Design Spreadsheet",
+        "link": "https://leetcode.com/problems/design-spreadsheet/",
+        "point": "4",
+        "contest": "Biweekly Contest 152",
+        "id": 2385
+    },
+    {
+        "name": "Longest Common Prefix of K Strings After Removal",
+        "link": "https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/",
+        "point": "6",
+        "contest": "Biweekly Contest 152",
+        "id": 2384
+    },
+    {
+        "name": "Longest Special Path II",
+        "link": "https://leetcode.com/problems/longest-special-path-ii/",
+        "point": "8",
+        "contest": "Biweekly Contest 152",
+        "id": 2383
+    },
+    {
         "name": "Fruits Into Baskets II",
         "link": "https://leetcode.com/problems/fruits-into-baskets-ii/",
         "point": "3",

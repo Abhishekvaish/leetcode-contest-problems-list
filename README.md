@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 441|
+| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/)| 3|
+| [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/)| 4|
+| [Zero Array Transformation IV](https://leetcode.com/problems/zero-array-transformation-iv/)| 5|
+| [Count Beautiful Numbers](https://leetcode.com/problems/count-beautiful-numbers/)| 6|
+|Biweekly Contest 152|
+| [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers/)| 3|
+| [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet/)| 4|
+| [Longest Common Prefix of K Strings After Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal/)| 6|
+| [Longest Special Path II](https://leetcode.com/problems/longest-special-path-ii/)| 8|
 |Weekly Contest 440|
 | [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii/)| 3|
 | [Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum/)| 4|
