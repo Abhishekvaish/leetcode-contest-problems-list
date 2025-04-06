@@ -1,5 +1,201 @@
 [
     {
+        "name": "Minimum Pair Removal to Sort Array I",
+        "link": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i",
+        "point": "3",
+        "contest": "Weekly Contest 444",
+        "id": 2418
+    },
+    {
+        "name": "Implement Router",
+        "link": "https://leetcode.com/problems/implement-router",
+        "point": "5",
+        "contest": "Weekly Contest 444",
+        "id": 2417
+    },
+    {
+        "name": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+        "link": "https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+        "point": "6",
+        "contest": "Weekly Contest 444",
+        "id": 2416
+    },
+    {
+        "name": "Minimum Pair Removal to Sort Array II",
+        "link": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii",
+        "point": "6",
+        "contest": "Weekly Contest 444",
+        "id": 2415
+    },
+    {
+        "name": "Minimum Cost to Reach Every Position",
+        "link": "https://leetcode.com/problems/minimum-cost-to-reach-every-position",
+        "point": "3",
+        "contest": "Weekly Contest 443",
+        "id": 2414
+    },
+    {
+        "name": "Longest Palindrome After Substring Concatenation I",
+        "link": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i",
+        "point": "4",
+        "contest": "Weekly Contest 443",
+        "id": 2413
+    },
+    {
+        "name": "Longest Palindrome After Substring Concatenation II",
+        "link": "https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii",
+        "point": "6",
+        "contest": "Weekly Contest 443",
+        "id": 2412
+    },
+    {
+        "name": "Minimum Operations to Make Elements Within K Subarrays Equal",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal",
+        "point": "7",
+        "contest": "Weekly Contest 443",
+        "id": 2411
+    },
+    {
+        "name": "Reverse Degree of a String",
+        "link": "https://leetcode.com/problems/reverse-degree-of-a-string",
+        "point": "3",
+        "contest": "Biweekly Contest 153",
+        "id": 2410
+    },
+    {
+        "name": "Maximize Active Section with Trade I",
+        "link": "https://leetcode.com/problems/maximize-active-section-with-trade-i",
+        "point": "4",
+        "contest": "Biweekly Contest 153",
+        "id": 2409
+    },
+    {
+        "name": "Minimum Cost to Divide Array Into Subarrays",
+        "link": "https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays",
+        "point": "6",
+        "contest": "Biweekly Contest 153",
+        "id": 2408
+    },
+    {
+        "name": "Maximize Active Section with Trade II",
+        "link": "https://leetcode.com/problems/maximize-active-section-with-trade-ii",
+        "point": "7",
+        "contest": "Biweekly Contest 153",
+        "id": 2407
+    },
+    {
+        "name": "Maximum Containers on a Ship",
+        "link": "https://leetcode.com/problems/maximum-containers-on-a-ship",
+        "point": "3",
+        "contest": "Weekly Contest 442",
+        "id": 2406
+    },
+    {
+        "name": "Properties Graph",
+        "link": "https://leetcode.com/problems/properties-graph",
+        "point": "4",
+        "contest": "Weekly Contest 442",
+        "id": 2405
+    },
+    {
+        "name": "Find the Minimum Amount of Time to Brew Potions",
+        "link": "https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions",
+        "point": "5",
+        "contest": "Weekly Contest 442",
+        "id": 2404
+    },
+    {
+        "name": "Minimum Operations to Make Array Elements Zero",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero",
+        "point": "6",
+        "contest": "Weekly Contest 442",
+        "id": 2403
+    },
+    {
+        "name": "Maximum Unique Subarray Sum After Deletion",
+        "link": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion",
+        "point": "3",
+        "contest": "Weekly Contest 441",
+        "id": 2402
+    },
+    {
+        "name": "Closest Equal Element Queries",
+        "link": "https://leetcode.com/problems/closest-equal-element-queries",
+        "point": "4",
+        "contest": "Weekly Contest 441",
+        "id": 2401
+    },
+    {
+        "name": "Zero Array Transformation IV",
+        "link": "https://leetcode.com/problems/zero-array-transformation-iv",
+        "point": "5",
+        "contest": "Weekly Contest 441",
+        "id": 2400
+    },
+    {
+        "name": "Count Beautiful Numbers",
+        "link": "https://leetcode.com/problems/count-beautiful-numbers",
+        "point": "6",
+        "contest": "Weekly Contest 441",
+        "id": 2399
+    },
+    {
+        "name": "Unique 3-Digit Even Numbers",
+        "link": "https://leetcode.com/problems/unique-3-digit-even-numbers",
+        "point": "3",
+        "contest": "Biweekly Contest 152",
+        "id": 2398
+    },
+    {
+        "name": "Design Spreadsheet",
+        "link": "https://leetcode.com/problems/design-spreadsheet",
+        "point": "4",
+        "contest": "Biweekly Contest 152",
+        "id": 2397
+    },
+    {
+        "name": "Longest Common Prefix of K Strings After Removal",
+        "link": "https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal",
+        "point": "6",
+        "contest": "Biweekly Contest 152",
+        "id": 2396
+    },
+    {
+        "name": "Longest Special Path II",
+        "link": "https://leetcode.com/problems/longest-special-path-ii",
+        "point": "8",
+        "contest": "Biweekly Contest 152",
+        "id": 2395
+    },
+    {
+        "name": "Fruits Into Baskets II",
+        "link": "https://leetcode.com/problems/fruits-into-baskets-ii",
+        "point": "3",
+        "contest": "Weekly Contest 440",
+        "id": 2394
+    },
+    {
+        "name": "Choose K Elements With Maximum Sum",
+        "link": "https://leetcode.com/problems/choose-k-elements-with-maximum-sum",
+        "point": "4",
+        "contest": "Weekly Contest 440",
+        "id": 2393
+    },
+    {
+        "name": "Fruits Into Baskets III",
+        "link": "https://leetcode.com/problems/fruits-into-baskets-iii",
+        "point": "5",
+        "contest": "Weekly Contest 440",
+        "id": 2392
+    },
+    {
+        "name": "Maximize Subarrays After Removing One Conflicting Pair",
+        "link": "https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair",
+        "point": "6",
+        "contest": "Weekly Contest 440",
+        "id": 2391
+    },
+    {
         "name": "Maximum Unique Subarray Sum After Deletion",
         "link": "https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/",
         "point": "3",

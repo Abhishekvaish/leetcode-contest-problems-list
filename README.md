@@ -4,6 +4,41 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 444|
+| [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i)| 3|
+| [Implement Router](https://leetcode.com/problems/implement-router)| 5|
+| [Maximum Product of Subsequences With an Alternating Sum Equal to K](https://leetcode.com/problems/maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k)| 6|
+| [Minimum Pair Removal to Sort Array II](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-ii)| 6|
+|Weekly Contest 443|
+| [Minimum Cost to Reach Every Position](https://leetcode.com/problems/minimum-cost-to-reach-every-position)| 3|
+| [Longest Palindrome After Substring Concatenation I](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-i)| 4|
+| [Longest Palindrome After Substring Concatenation II](https://leetcode.com/problems/longest-palindrome-after-substring-concatenation-ii)| 6|
+| [Minimum Operations to Make Elements Within K Subarrays Equal](https://leetcode.com/problems/minimum-operations-to-make-elements-within-k-subarrays-equal)| 7|
+|Biweekly Contest 153|
+| [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string)| 3|
+| [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i)| 4|
+| [Minimum Cost to Divide Array Into Subarrays](https://leetcode.com/problems/minimum-cost-to-divide-array-into-subarrays)| 6|
+| [Maximize Active Section with Trade II](https://leetcode.com/problems/maximize-active-section-with-trade-ii)| 7|
+|Weekly Contest 442|
+| [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship)| 3|
+| [Properties Graph](https://leetcode.com/problems/properties-graph)| 4|
+| [Find the Minimum Amount of Time to Brew Potions](https://leetcode.com/problems/find-the-minimum-amount-of-time-to-brew-potions)| 5|
+| [Minimum Operations to Make Array Elements Zero](https://leetcode.com/problems/minimum-operations-to-make-array-elements-zero)| 6|
+|Weekly Contest 441|
+| [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion)| 3|
+| [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries)| 4|
+| [Zero Array Transformation IV](https://leetcode.com/problems/zero-array-transformation-iv)| 5|
+| [Count Beautiful Numbers](https://leetcode.com/problems/count-beautiful-numbers)| 6|
+|Biweekly Contest 152|
+| [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers)| 3|
+| [Design Spreadsheet](https://leetcode.com/problems/design-spreadsheet)| 4|
+| [Longest Common Prefix of K Strings After Removal](https://leetcode.com/problems/longest-common-prefix-of-k-strings-after-removal)| 6|
+| [Longest Special Path II](https://leetcode.com/problems/longest-special-path-ii)| 8|
+|Weekly Contest 440|
+| [Fruits Into Baskets II](https://leetcode.com/problems/fruits-into-baskets-ii)| 3|
+| [Choose K Elements With Maximum Sum](https://leetcode.com/problems/choose-k-elements-with-maximum-sum)| 4|
+| [Fruits Into Baskets III](https://leetcode.com/problems/fruits-into-baskets-iii)| 5|
+| [Maximize Subarrays After Removing One Conflicting Pair](https://leetcode.com/problems/maximize-subarrays-after-removing-one-conflicting-pair)| 6|
 |Weekly Contest 441|
 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion/)| 3|
 | [Closest Equal Element Queries](https://leetcode.com/problems/closest-equal-element-queries/)| 4|
