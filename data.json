@@ -1,5 +1,61 @@
 [
     {
+        "name": "Find Closest Person",
+        "link": "https://leetcode.com/problems/find-closest-person",
+        "point": "3",
+        "contest": "Weekly Contest 445",
+        "id": 2426
+    },
+    {
+        "name": "Smallest Palindromic Rearrangement I",
+        "link": "https://leetcode.com/problems/smallest-palindromic-rearrangement-i",
+        "point": "4",
+        "contest": "Weekly Contest 445",
+        "id": 2425
+    },
+    {
+        "name": "Smallest Palindromic Rearrangement II",
+        "link": "https://leetcode.com/problems/smallest-palindromic-rearrangement-ii",
+        "point": "6",
+        "contest": "Weekly Contest 445",
+        "id": 2424
+    },
+    {
+        "name": "Count Numbers with Non-Decreasing Digits",
+        "link": "https://leetcode.com/problems/count-numbers-with-non-decreasing-digits",
+        "point": "6",
+        "contest": "Weekly Contest 445",
+        "id": 2423
+    },
+    {
+        "name": "Minimum Operations to Make Array Sum Divisible by K",
+        "link": "https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k",
+        "point": "3",
+        "contest": "Biweekly Contest 154",
+        "id": 2422
+    },
+    {
+        "name": "Number of Unique XOR Triplets I",
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-i",
+        "point": "4",
+        "contest": "Biweekly Contest 154",
+        "id": 2421
+    },
+    {
+        "name": "Number of Unique XOR Triplets II",
+        "link": "https://leetcode.com/problems/number-of-unique-xor-triplets-ii",
+        "point": "5",
+        "contest": "Biweekly Contest 154",
+        "id": 2420
+    },
+    {
+        "name": "Shortest Path in a Weighted Tree",
+        "link": "https://leetcode.com/problems/shortest-path-in-a-weighted-tree",
+        "point": "7",
+        "contest": "Biweekly Contest 154",
+        "id": 2419
+    },
+    {
         "name": "Minimum Pair Removal to Sort Array I",
         "link": "https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i",
         "point": "3",

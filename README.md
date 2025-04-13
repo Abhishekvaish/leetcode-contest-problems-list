@@ -4,6 +4,16 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 445|
+| [Find Closest Person](https://leetcode.com/problems/find-closest-person)| 3|
+| [Smallest Palindromic Rearrangement I](https://leetcode.com/problems/smallest-palindromic-rearrangement-i)| 4|
+| [Smallest Palindromic Rearrangement II](https://leetcode.com/problems/smallest-palindromic-rearrangement-ii)| 6|
+| [Count Numbers with Non-Decreasing Digits](https://leetcode.com/problems/count-numbers-with-non-decreasing-digits)| 6|
+|Biweekly Contest 154|
+| [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k)| 3|
+| [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i)| 4|
+| [Number of Unique XOR Triplets II](https://leetcode.com/problems/number-of-unique-xor-triplets-ii)| 5|
+| [Shortest Path in a Weighted Tree](https://leetcode.com/problems/shortest-path-in-a-weighted-tree)| 7|
 |Weekly Contest 444|
 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i)| 3|
 | [Implement Router](https://leetcode.com/problems/implement-router)| 5|
