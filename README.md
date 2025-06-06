@@ -4,6 +4,41 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 452|
+| [Partition Array into Two Equal Product Subsets](https://leetcode.com/problems/partition-array-into-two-equal-product-subsets)| 4|
+| [Minimum Absolute Difference in Sliding Submatrix](https://leetcode.com/problems/minimum-absolute-difference-in-sliding-submatrix)| 4|
+| [Minimum Moves to Clean the Classroom](https://leetcode.com/problems/minimum-moves-to-clean-the-classroom)| 5|
+| [Maximize Count of Distinct Primes After Split](https://leetcode.com/problems/maximize-count-of-distinct-primes-after-split)| 7|
+|Weekly Contest 451|
+| [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost)| 3|
+| [Resulting String After Adjacent Removals](https://leetcode.com/problems/resulting-string-after-adjacent-removals)| 4|
+| [Maximum Profit from Trading Stocks with Discounts](https://leetcode.com/problems/maximum-profit-from-trading-stocks-with-discounts)| 5|
+| [Lexicographically Smallest String After Adjacent Removals](https://leetcode.com/problems/lexicographically-smallest-string-after-adjacent-removals)| 6|
+|Biweekly Contest 157|
+| [Sum of Largest Prime Substrings](https://leetcode.com/problems/sum-of-largest-prime-substrings)| 4|
+| [Find Maximum Number of Non Intersecting Substrings](https://leetcode.com/problems/find-maximum-number-of-non-intersecting-substrings)| 4|
+| [Number of Ways to Assign Edge Weights I](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-i)| 5|
+| [Number of Ways to Assign Edge Weights II](https://leetcode.com/problems/number-of-ways-to-assign-edge-weights-ii)| 6|
+|Weekly Contest 450|
+| [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index)| 3|
+| [Minimum Swaps to Sort by Digit Sum](https://leetcode.com/problems/minimum-swaps-to-sort-by-digit-sum)| 4|
+| [Grid Teleportation Traversal](https://leetcode.com/problems/grid-teleportation-traversal)| 5|
+| [Minimum Weighted Subgraph With the Required Paths II](https://leetcode.com/problems/minimum-weighted-subgraph-with-the-required-paths-ii)| 7|
+|Weekly Contest 449|
+| [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters)| 3|
+| [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i)| 4|
+| [Maximum Sum of Edge Values in a Graph](https://leetcode.com/problems/maximum-sum-of-edge-values-in-a-graph)| 6|
+| [Equal Sum Grid Partition II](https://leetcode.com/problems/equal-sum-grid-partition-ii)| 7|
+|Biweekly Contest 156|
+| [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant)| 3|
+| [Minimum Operations to Convert All Elements to Zero](https://leetcode.com/problems/minimum-operations-to-convert-all-elements-to-zero)| 4|
+| [Maximum Weighted K-Edge Path](https://leetcode.com/problems/maximum-weighted-k-edge-path)| 5|
+| [Subtree Inversion Sum](https://leetcode.com/problems/subtree-inversion-sum)| 6|
+|Weekly Contest 448|
+| [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits)| 3|
+| [Fill a Special Grid](https://leetcode.com/problems/fill-a-special-grid)| 4|
+| [Merge Operations for Minimum Travel Time](https://leetcode.com/problems/merge-operations-for-minimum-travel-time)| 6|
+| [Find Sum of Array Product of Magical Sequences](https://leetcode.com/problems/find-sum-of-array-product-of-magical-sequences)| 7|
 |Weekly Contest 447|
 | [Count Covered Buildings](https://leetcode.com/problems/count-covered-buildings)| 4|
 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i)| 4|
