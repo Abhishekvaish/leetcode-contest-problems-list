@@ -4,6 +4,76 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 465|
+| [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order)| 3|
+| [Balanced K-Factor Decomposition](https://leetcode.com/problems/balanced-k-factor-decomposition)| 4|
+| [Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits)| 5|
+| [Sum of Beautiful Subsequences](https://leetcode.com/problems/sum-of-beautiful-subsequences)| 7|
+|Biweekly Contest 164|
+| [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit)| 3|
+| [Two-Letter Card Game](https://leetcode.com/problems/two-letter-card-game)| 4|
+| [Twisted Mirror Path Count](https://leetcode.com/problems/twisted-mirror-path-count)| 5|
+| [Minimum Operations to Equalize Binary String](https://leetcode.com/problems/minimum-operations-to-equalize-binary-string)| 6|
+|Weekly Contest 464|
+| [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums)| 3|
+| [Partition Array Into K-Distinct Groups](https://leetcode.com/problems/partition-array-into-k-distinct-groups)| 4|
+| [Jump Game IX](https://leetcode.com/problems/jump-game-ix)| 5|
+| [Maximum Walls Destroyed by Robots](https://leetcode.com/problems/maximum-walls-destroyed-by-robots)| 6|
+|Weekly Contest 463|
+| [Best Time to Buy and Sell Stock using Strategy](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-using-strategy)| 4|
+| [XOR After Range Multiplication Queries I](https://leetcode.com/problems/xor-after-range-multiplication-queries-i)| 4|
+| [Minimum Sum After Divisible Sum Deletions](https://leetcode.com/problems/minimum-sum-after-divisible-sum-deletions)| 5|
+| [XOR After Range Multiplication Queries II](https://leetcode.com/problems/xor-after-range-multiplication-queries-ii)| 8|
+|Biweekly Contest 163|
+| [Minimum Sensors to Cover Grid](https://leetcode.com/problems/minimum-sensors-to-cover-grid)| 4|
+| [Number of Perfect Pairs](https://leetcode.com/problems/number-of-perfect-pairs)| 4|
+| [Minimum Cost Path with Edge Reversals](https://leetcode.com/problems/minimum-cost-path-with-edge-reversals)| 5|
+| [Minimum Cost Path with Teleportations](https://leetcode.com/problems/minimum-cost-path-with-teleportations)| 6|
+|Weekly Contest 462|
+| [Flip Square Submatrix Vertically](https://leetcode.com/problems/flip-square-submatrix-vertically)| 3|
+| [Maximum K to Sort a Permutation](https://leetcode.com/problems/maximum-k-to-sort-a-permutation)| 5|
+| [Maximum Total from Optimal Activation Order](https://leetcode.com/problems/maximum-total-from-optimal-activation-order)| 5|
+| [Next Special Palindrome Number](https://leetcode.com/problems/next-special-palindrome-number)| 6|
+|Weekly Contest 461|
+| [Trionic Array I](https://leetcode.com/problems/trionic-array-i)| 3|
+| [Maximum Balanced Shipments](https://leetcode.com/problems/maximum-balanced-shipments)| 5|
+| [Minimum Time to Activate String](https://leetcode.com/problems/minimum-time-to-activate-string)| 5|
+| [Trionic Array II](https://leetcode.com/problems/trionic-array-ii)| 6|
+|Biweekly Contest 162|
+| [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i)| 3|
+| [Minimum Removals to Balance Array](https://leetcode.com/problems/minimum-removals-to-balance-array)| 4|
+| [Earliest Finish Time for Land and Water Rides II](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-ii)| 5|
+| [Threshold Majority Queries](https://leetcode.com/problems/threshold-majority-queries)| 6|
+|Weekly Contest 460|
+| [Maximum Median Sum of Subsequences of Size 3](https://leetcode.com/problems/maximum-median-sum-of-subsequences-of-size-3)| 4|
+| [Maximum Number of Subsequences After One Inserting](https://leetcode.com/problems/maximum-number-of-subsequences-after-one-inserting)| 5|
+| [Minimum Jumps to Reach End via Prime Teleportation](https://leetcode.com/problems/minimum-jumps-to-reach-end-via-prime-teleportation)| 5|
+| [Partition Array for Maximum XOR and AND](https://leetcode.com/problems/partition-array-for-maximum-xor-and-and)| 7|
+|Weekly Contest 459|
+| [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product)| 3|
+| [Count Number of Trapezoids I](https://leetcode.com/problems/count-number-of-trapezoids-i)| 4|
+| [Number of Integers With Popcount-Depth Equal to K II](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-ii)| 6|
+| [Count Number of Trapezoids II](https://leetcode.com/problems/count-number-of-trapezoids-ii)| 6|
+|Biweekly Contest 161|
+| [Split Array by Prime Indices](https://leetcode.com/problems/split-array-by-prime-indices)| 4|
+| [Count Islands With Total Value Divisible by K](https://leetcode.com/problems/count-islands-with-total-value-divisible-by-k)| 4|
+| [Network Recovery Pathways](https://leetcode.com/problems/network-recovery-pathways)| 6|
+| [Number of Integers With Popcount-Depth Equal to K I](https://leetcode.com/problems/number-of-integers-with-popcount-depth-equal-to-k-i)| 6|
+|Weekly Contest 458|
+| [Process String with Special Operations I](https://leetcode.com/problems/process-string-with-special-operations-i)| 4|
+| [Minimize Maximum Component Cost](https://leetcode.com/problems/minimize-maximum-component-cost)| 4|
+| [Process String with Special Operations II](https://leetcode.com/problems/process-string-with-special-operations-ii)| 6|
+| [Longest Palindromic Path in Graph](https://leetcode.com/problems/longest-palindromic-path-in-graph)| 6|
+|Weekly Contest 457|
+| [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator)| 3|
+| [Power Grid Maintenance](https://leetcode.com/problems/power-grid-maintenance)| 4|
+| [Minimum Time for K Connected Components](https://leetcode.com/problems/minimum-time-for-k-connected-components)| 5|
+| [Minimum Moves to Reach Target in Grid](https://leetcode.com/problems/minimum-moves-to-reach-target-in-grid)| 6|
+|Biweekly Contest 160|
+| [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion)| 3|
+| [Minimum Cost Path with Alternating Directions II](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii)| 5|
+| [Minimum Time to Reach Destination in Directed Graph](https://leetcode.com/problems/minimum-time-to-reach-destination-in-directed-graph)| 5|
+| [Minimum Stability Factor of Array](https://leetcode.com/problems/minimum-stability-factor-of-array)| 7|
 |Weekly Contest 456|
 | [Partition String](https://leetcode.com/problems/partition-string)| 4|
 | [Longest Common Prefix Between Adjacent Strings After Removals](https://leetcode.com/problems/longest-common-prefix-between-adjacent-strings-after-removals)| 4|
