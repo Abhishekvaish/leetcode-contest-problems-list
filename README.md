@@ -4,6 +4,66 @@ checkout this [github-page](https://abhishekvaish.github.io/leetcode-contest-pro
 
 |Problems | Points|
 | :-- | :--: |
+|Weekly Contest 473|
+| [Remove Zeros in Decimal Representation](https://leetcode.com/problems/remove-zeros-in-decimal-representation)| 3|
+| [Maximum Alternating Sum of Squares](https://leetcode.com/problems/maximum-alternating-sum-of-squares)| 4|
+| [Stable Subarrays With Equal Boundary and Interior Sum](https://leetcode.com/problems/stable-subarrays-with-equal-boundary-and-interior-sum)| 5|
+| [Count Distinct Subarrays Divisible by K in Sorted Array](https://leetcode.com/problems/count-distinct-subarrays-divisible-by-k-in-sorted-array)| 6|
+|Biweekly Contest 168|
+| [Lexicographically Smallest String After Reverse](https://leetcode.com/problems/lexicographically-smallest-string-after-reverse)| 4|
+| [Maximize Sum of Squares of Digits](https://leetcode.com/problems/maximize-sum-of-squares-of-digits)| 5|
+| [Minimum Operations to Transform Array](https://leetcode.com/problems/minimum-operations-to-transform-array)| 5|
+| [Count Ways to Choose Coprime Integers from Rows](https://leetcode.com/problems/count-ways-to-choose-coprime-integers-from-rows)| 6|
+|Weekly Contest 472|
+| [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k)| 3|
+| [Longest Balanced Subarray I](https://leetcode.com/problems/longest-balanced-subarray-i)| 4|
+| [Lexicographically Smallest Permutation Greater Than Target](https://leetcode.com/problems/lexicographically-smallest-permutation-greater-than-target)| 5|
+| [Longest Balanced Subarray II](https://leetcode.com/problems/longest-balanced-subarray-ii)| 7|
+|Weekly Contest 471|
+| [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k)| 3|
+| [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i)| 4|
+| [Longest Balanced Substring II](https://leetcode.com/problems/longest-balanced-substring-ii)| 5|
+| [Sum of Perfect Square Ancestors](https://leetcode.com/problems/sum-of-perfect-square-ancestors)| 6|
+|Biweekly Contest 167|
+| [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings)| 3|
+| [Longest Fibonacci Subarray](https://leetcode.com/problems/longest-fibonacci-subarray)| 4|
+| [Design Exam Scores Tracker](https://leetcode.com/problems/design-exam-scores-tracker)| 5|
+| [Maximum Partition Factor](https://leetcode.com/problems/maximum-partition-factor)| 6|
+|Weekly Contest 470|
+| [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum)| 3|
+| [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor)| 4|
+| [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings)| 5|
+| [Count No-Zero Pairs That Sum to N](https://leetcode.com/problems/count-no-zero-pairs-that-sum-to-n)| 6|
+|Weekly Contest 469|
+| [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation)| 3|
+| [Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference)| 4|
+| [Number of ZigZag Arrays I](https://leetcode.com/problems/number-of-zigzag-arrays-i)| 6|
+| [Number of ZigZag Arrays II](https://leetcode.com/problems/number-of-zigzag-arrays-ii)| 8|
+|Biweekly Contest 166|
+| [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters)| 3|
+| [Climbing Stairs II](https://leetcode.com/problems/climbing-stairs-ii)| 4|
+| [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal)| 5|
+| [Maximize Alternating Sum Using Swaps](https://leetcode.com/problems/maximize-alternating-sum-using-swaps)| 6|
+|Weekly Contest 468|
+| [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array)| 3|
+| [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i)| 4|
+| [Split and Merge Array Transformation](https://leetcode.com/problems/split-and-merge-array-transformation)| 5|
+| [Maximum Total Subarray Value II](https://leetcode.com/problems/maximum-total-subarray-value-ii)| 7|
+|Weekly Contest 467|
+| [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task)| 3|
+| [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements)| 3|
+| [Subsequence Sum After Capping Elements](https://leetcode.com/problems/subsequence-sum-after-capping-elements)| 5|
+| [Number of Stable Subsequences](https://leetcode.com/problems/number-of-stable-subsequences)| 6|
+|Biweekly Contest 165|
+| [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average)| 3|
+| [Minimum Discards to Balance Inventory](https://leetcode.com/problems/minimum-discards-to-balance-inventory)| 4|
+| [Generate Schedule](https://leetcode.com/problems/generate-schedule)| 5|
+| [Maximum XOR of Subsequences](https://leetcode.com/problems/maximum-xor-of-subsequences)| 6|
+|Weekly Contest 466|
+| [Minimum Operations to Equalize Array](https://leetcode.com/problems/minimum-operations-to-equalize-array)| 3|
+| [Minimum Operations to Transform String](https://leetcode.com/problems/minimum-operations-to-transform-string)| 4|
+| [Count Bowl Subarrays](https://leetcode.com/problems/count-bowl-subarrays)| 5|
+| [Count Binary Palindromic Numbers](https://leetcode.com/problems/count-binary-palindromic-numbers)| 6|
 |Weekly Contest 465|
 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order)| 3|
 | [Balanced K-Factor Decomposition](https://leetcode.com/problems/balanced-k-factor-decomposition)| 4|
